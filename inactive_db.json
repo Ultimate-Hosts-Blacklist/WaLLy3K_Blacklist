@@ -1,8 +1,7 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/WaLLy3K_Blacklist/domains.list": {
-        "down": 1,
-        "invalid": 0,
-        "tested": 161,
-        "up": 160
+        "1522273699": [
+            "us.intellitxt.com"
+        ]
     }
 }
