@@ -11,10 +11,9 @@
             "sinceresofa.com",
             "structuresofa.com",
             "tidytrail.com",
-            "us.intellitxt.com"
-        ],
-        "to_test": [
+            "us.intellitxt.com",
             "aloseks.org"
-        ]
+        ],
+        "to_test": []
     }
 }
