@@ -1,19 +1,19 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/WaLLy3K_Blacklist/domains.list": {
-        "1526584319": [
+        "1526839961": [
             "chinchickens.com",
             "content.synapsys.us",
             "fd-fp3.wg1.b.yahoo.com",
             "gfe.geforce.com",
             "jewelcheese.com",
             "ovalpigs.com",
-            "peacepowder.com",
             "sinceresofa.com",
             "structuresofa.com",
             "tidytrail.com",
-            "us.intellitxt.com",
-            "aloseks.org"
+            "us.intellitxt.com"
         ],
-        "to_test": []
+        "to_test": [
+            "aloseks.org"
+        ]
     }
 }
