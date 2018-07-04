@@ -1,26 +1,41 @@
 # File generated with https://github.com/funilrys/PyFunceble
-# Date of generation: Sat 30 Jun 18:06:43 UTC 2018 
+# Date of generation: Wed 04 Jul 18:07:00 UTC 2018 
 
 0.0.0.0 ad-cdn.technoratimedia.com 
+0.0.0.0 ad.fyber.angsrvr.com 
+0.0.0.0 ade.googlesyndication.com 
 0.0.0.0 adservice.google.com.au 
 0.0.0.0 api.redshell.io 
+0.0.0.0 app-analytics.snapchat.com 
+0.0.0.0 assets.micpn.com 
 0.0.0.0 cdn.kidoz.net 
 0.0.0.0 collector.abc-host.net.au 
 0.0.0.0 ctoid.net 
 0.0.0.0 cws.conviva.com 
 0.0.0.0 cydia.saurik.com.cdngc.net 
 0.0.0.0 deliver.oztam.com.au 
+0.0.0.0 e5019.e2.akamaiedge.net 
 0.0.0.0 euw.adserver.snapads.com 
 0.0.0.0 gfwsl.geforce.com 
 0.0.0.0 gstaticadssl.l.google.com 
 0.0.0.0 in.treasuredata.com 
+0.0.0.0 kvinit-prod.api.kochava.com 
 0.0.0.0 ls.srvcs.tumblr.com 
+0.0.0.0 metric.kleientertainment.com 
+0.0.0.0 monetize-api.coronalabs.com 
 0.0.0.0 msmetrics.ws.sonos.com 
 0.0.0.0 placements.tapjoy.com 
+0.0.0.0 public.vilynx.com 
+0.0.0.0 rpc.tapjoy.com 
+0.0.0.0 rules.noadblock.org 
 0.0.0.0 saber.srvcs.tumblr.com 
 0.0.0.0 serve.adtrackers.net 
 0.0.0.0 serve.bannertrack.net 
+0.0.0.0 sofia.trustx.org 
+0.0.0.0 ssor.tribdss.com 
+0.0.0.0 static.zotabox.com 
 0.0.0.0 usc.adserver.snapads.com 
+0.0.0.0 wildcard.moatads.com.edgekey.net 
 0.0.0.0 www-googletagmanager.l.google.com 
 0.0.0.0 yasni.bannertrack.net 
 0.0.0.0 yt.moatads.com 
