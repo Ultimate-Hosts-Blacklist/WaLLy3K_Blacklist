@@ -1,11 +1,13 @@
 # File generated with https://github.com/funilrys/PyFunceble
-# Date of generation: Fri 06 Jul 18:07:55 UTC 2018 
+# Date of generation: Tue 10 Jul 18:07:30 UTC 2018 
 
 0.0.0.0 ad-cdn.technoratimedia.com 
 0.0.0.0 ad.fyber.angsrvr.com 
 0.0.0.0 ade.googlesyndication.com 
 0.0.0.0 adservice.google.com.au 
+0.0.0.0 api-lytics.macpaw.com 
 0.0.0.0 api.redshell.io 
+0.0.0.0 api211.thefilter.com 
 0.0.0.0 app-analytics.snapchat.com 
 0.0.0.0 assets.micpn.com 
 0.0.0.0 cdn.kidoz.net 
@@ -13,6 +15,9 @@
 0.0.0.0 ctoid.net 
 0.0.0.0 cws.conviva.com 
 0.0.0.0 cydia.saurik.com.cdngc.net 
+0.0.0.0 d16s8pqtk4uodx.cloudfront.net 
+0.0.0.0 d20i5e3rqc90ne.cloudfront.net 
+0.0.0.0 d3hmp0045zy3cs.cloudfront.net 
 0.0.0.0 deliver.oztam.com.au 
 0.0.0.0 e5019.e2.akamaiedge.net 
 0.0.0.0 euw.adserver.snapads.com 
@@ -24,8 +29,11 @@
 0.0.0.0 metric.kleientertainment.com 
 0.0.0.0 monetize-api.coronalabs.com 
 0.0.0.0 msmetrics.ws.sonos.com 
+0.0.0.0 nexus.ensighten.com 
 0.0.0.0 placements.tapjoy.com 
+0.0.0.0 public.vilynx.com 
 0.0.0.0 rpc.tapjoy.com 
+0.0.0.0 rs.fullstory.com 
 0.0.0.0 rules.noadblock.org 
 0.0.0.0 saber.srvcs.tumblr.com 
 0.0.0.0 serve.adtrackers.net 

@@ -1,5 +1,5 @@
 # File generated with https://github.com/funilrys/PyFunceble
-# Date of generation: Fri 06 Jul 18:07:55 UTC 2018 
+# Date of generation: Tue 10 Jul 18:07:30 UTC 2018 
 
 0.0.0.0 2znp09oa.com 
 0.0.0.0 4jnzhl0d0.com 
@@ -26,11 +26,13 @@
 0.0.0.0 analytics.servogram.io 
 0.0.0.0 ancestry.siteintercept.qualtrics.com 
 0.0.0.0 anxiousapples.com 
+0.0.0.0 api-lytics.macpaw.com 
 0.0.0.0 api.branch.io 
 0.0.0.0 api.data-monitor.info 
 0.0.0.0 api.redshell.io 
 0.0.0.0 api.south.kontagent.net 
 0.0.0.0 api.viafoura.co 
+0.0.0.0 api211.thefilter.com 
 0.0.0.0 app-analytics.snapchat.com 
 0.0.0.0 argyresthia.com 
 0.0.0.0 assets.micpn.com 
@@ -86,7 +88,11 @@
 0.0.0.0 cutecushion.com 
 0.0.0.0 cws.conviva.com 
 0.0.0.0 cydia.saurik.com.cdngc.net 
+0.0.0.0 d16s8pqtk4uodx.cloudfront.net 
+0.0.0.0 d20i5e3rqc90ne.cloudfront.net 
+0.0.0.0 d29usylhdk1xyu.cloudfront.net 
 0.0.0.0 d35fgcharv2shj.cloudfront.net 
+0.0.0.0 d3hmp0045zy3cs.cloudfront.net 
 0.0.0.0 dashboard.evolveplatform.net 
 0.0.0.0 decisivedrawer.com 
 0.0.0.0 decisiveducks.com 
@@ -99,6 +105,7 @@
 0.0.0.0 discreetfield.com 
 0.0.0.0 dispensablestranger.com 
 0.0.0.0 dk4ywix.com 
+0.0.0.0 docj27ko03fnu.cloudfront.net 
 0.0.0.0 docksalmon.com 
 0.0.0.0 doubtfulrainstorm.com 
 0.0.0.0 dragzebra.com 
@@ -160,6 +167,7 @@
 0.0.0.0 instartlogic.com 
 0.0.0.0 inventionpassenger.com 
 0.0.0.0 invisioncloudstats.com 
+0.0.0.0 is-tracking-pixel-api-prod.appspot.com 
 0.0.0.0 ivykiosk.com 
 0.0.0.0 j93557g.com 
 0.0.0.0 jadeitite.com 
@@ -186,6 +194,7 @@
 0.0.0.0 msmetrics.ws.sonos.com 
 0.0.0.0 neighborlywatch.com 
 0.0.0.0 nervoussummer.com 
+0.0.0.0 nexus.ensighten.com 
 0.0.0.0 nondescriptcrowd.com 
 0.0.0.0 open.oneplus.net 
 0.0.0.0 opencache.com 
@@ -221,7 +230,10 @@
 0.0.0.0 reflectivereward.com 
 0.0.0.0 reports.crashlytics.com 
 0.0.0.0 resolutekey.com 
+0.0.0.0 roosterfirework.com 
 0.0.0.0 rpc.tapjoy.com 
+0.0.0.0 rpxnow.com 
+0.0.0.0 rs.fullstory.com 
 0.0.0.0 rulerabbit.com 
 0.0.0.0 rules.noadblock.org 
 0.0.0.0 rules.quantcount.com 
@@ -276,6 +288,7 @@
 0.0.0.0 succeedscene.com 
 0.0.0.0 suddensidewalk.com 
 0.0.0.0 sugarcurtain.com 
+0.0.0.0 summerhamster.com 
 0.0.0.0 superficialsink.com 
 0.0.0.0 swordgoose.com 
 0.0.0.0 tags.tiqcdn.com 
@@ -286,6 +299,7 @@
 0.0.0.0 telemetry.nvidia.com 
 0.0.0.0 terribleturkey.com 
 0.0.0.0 teschenite.com 
+0.0.0.0 thefilter.com 
 0.0.0.0 thirdrespect.com 
 0.0.0.0 throattrees.com 
 0.0.0.0 ticklesign.com 
@@ -313,10 +327,14 @@
 0.0.0.0 wryfinger.com 
 0.0.0.0 www-googletagmanager.l.google.com 
 0.0.0.0 www.adiode.com 
+0.0.0.0 www.fullstory.com 
 0.0.0.0 www.instartlogic.com 
 0.0.0.0 www.movable-ink-2183.com 
 0.0.0.0 www.opencache.com 
+0.0.0.0 www.roosterfirework.com 
 0.0.0.0 www.sdad.guru 
+0.0.0.0 www.summerhamster.com 
+0.0.0.0 www.thefilter.com 
 0.0.0.0 www.usekahuna.com 
 0.0.0.0 www.volantix.com 
 0.0.0.0 www.vungle.com 
