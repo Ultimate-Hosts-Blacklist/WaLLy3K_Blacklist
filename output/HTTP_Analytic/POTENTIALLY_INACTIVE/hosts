@@ -1,8 +1,9 @@
 # File generated with https://github.com/funilrys/PyFunceble
-# Date of generation: Tue 10 Jul 18:07:30 UTC 2018 
+# Date of generation: Fri 13 Jul 18:07:51 UTC 2018 
 
 0.0.0.0 ad-cdn.technoratimedia.com 
 0.0.0.0 ad.fyber.angsrvr.com 
+0.0.0.0 adc-ad-assets.adtilt.com 
 0.0.0.0 ade.googlesyndication.com 
 0.0.0.0 adservice.google.com.au 
 0.0.0.0 api-lytics.macpaw.com 
@@ -36,6 +37,7 @@
 0.0.0.0 rs.fullstory.com 
 0.0.0.0 rules.noadblock.org 
 0.0.0.0 saber.srvcs.tumblr.com 
+0.0.0.0 sdk.appsflyer.com 
 0.0.0.0 serve.adtrackers.net 
 0.0.0.0 serve.bannertrack.net 
 0.0.0.0 sofia.trustx.org 
