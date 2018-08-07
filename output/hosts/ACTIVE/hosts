@@ -1,5 +1,5 @@
 # File generated with https://github.com/funilrys/PyFunceble
-# Date of generation: Fri 03 Aug 18:08:37 UTC 2018 
+# Date of generation: Tue 07 Aug 18:08:24 UTC 2018 
 
 0.0.0.0 2znp09oa.com 
 0.0.0.0 4jnzhl0d0.com 
@@ -37,11 +37,13 @@
 0.0.0.0 api-lytics.macpaw.com 
 0.0.0.0 api.branch.io 
 0.0.0.0 api.data-monitor.info 
+0.0.0.0 api.privy.com 
 0.0.0.0 api.redshell.io 
 0.0.0.0 api.south.kontagent.net 
 0.0.0.0 api.viafoura.co 
 0.0.0.0 api211.thefilter.com 
 0.0.0.0 app-analytics.snapchat.com 
+0.0.0.0 app.adjust.com 
 0.0.0.0 archswimming.com 
 0.0.0.0 argyresthia.com 
 0.0.0.0 ariseboundary.com 
@@ -86,6 +88,7 @@
 0.0.0.0 campingforthefunofit.com 
 0.0.0.0 capablecows.com 
 0.0.0.0 captainbicycle.com 
+0.0.0.0 cdn.districtm.io 
 0.0.0.0 cdn.kidoz.net 
 0.0.0.0 cdn.monsido.com 
 0.0.0.0 cherrythread.com 
@@ -131,6 +134,7 @@
 0.0.0.0 dashboard.evolveplatform.net 
 0.0.0.0 dashingdirt.com 
 0.0.0.0 dashingsweater.com 
+0.0.0.0 dc.railgun.works 
 0.0.0.0 deadpantruck.com 
 0.0.0.0 debonairway.com 
 0.0.0.0 decisivedrawer.com 
@@ -138,8 +142,10 @@
 0.0.0.0 decoycreation.com 
 0.0.0.0 delightdriving.com 
 0.0.0.0 deliver.oztam.com.au 
+0.0.0.0 deploygate.com 
 0.0.0.0 desertedbreath.com 
 0.0.0.0 detailedglue.com 
+0.0.0.0 detect.rayjump.com 
 0.0.0.0 detectdiscovery.com 
 0.0.0.0 differentdesk.com 
 0.0.0.0 discreetfield.com 
@@ -177,6 +183,7 @@
 0.0.0.0 farethief.com 
 0.0.0.0 farmergoldfish.com 
 0.0.0.0 fast-nc.appcues.com 
+0.0.0.0 fast.fonts.net 
 0.0.0.0 faultycanvas.com 
 0.0.0.0 file-cdn.beeketing.com 
 0.0.0.0 flakyfeast.com 
@@ -224,6 +231,7 @@
 0.0.0.0 hollowshake.com 
 0.0.0.0 homelycrown.com 
 0.0.0.0 hurtteeth.com 
+0.0.0.0 i.frg.im 
 0.0.0.0 illustriousoatmeal.com 
 0.0.0.0 importedincrease.com 
 0.0.0.0 in.treasuredata.com 
@@ -250,6 +258,7 @@
 0.0.0.0 jadeitite.com 
 0.0.0.0 jamexistence.com 
 0.0.0.0 jikenick12and67.com 
+0.0.0.0 jita.rtk.io 
 0.0.0.0 jsecoin.com 
 0.0.0.0 justicejudo.com 
 0.0.0.0 k54nw.pw 
@@ -264,6 +273,7 @@
 0.0.0.0 lp3tdqle.com 
 0.0.0.0 lumpyleaf.com 
 0.0.0.0 markedcrayon.com 
+0.0.0.0 match.prod.bidr.io 
 0.0.0.0 matchcows.com 
 0.0.0.0 medusasailor.com 
 0.0.0.0 melonmail.melon.com.au 
@@ -285,6 +295,7 @@
 0.0.0.0 nexus.ensighten.com 
 0.0.0.0 nondescriptcrowd.com 
 0.0.0.0 nostalgicknot.com 
+0.0.0.0 open.inkfrog.com 
 0.0.0.0 open.oneplus.net 
 0.0.0.0 opencache.com 
 0.0.0.0 optimallimit.com 
@@ -298,6 +309,7 @@
 0.0.0.0 phonograph2.voxmedia.com 
 0.0.0.0 photographpan.com 
 0.0.0.0 pietexture.com 
+0.0.0.0 pingback.issuu.com 
 0.0.0.0 placements.tapjoy.com 
 0.0.0.0 platform.cloud-iq.com.au 
 0.0.0.0 possessivebucket.com 
@@ -347,14 +359,18 @@
 0.0.0.0 scintillatingspace.com 
 0.0.0.0 scrubsky.com 
 0.0.0.0 scrubswim.com 
+0.0.0.0 scs.webtrends.com 
 0.0.0.0 sdad.guru 
+0.0.0.0 sdk-cdn.beeketing.com 
 0.0.0.0 sdk.appsflyer.com 
+0.0.0.0 sdk.beeketing.com 
 0.0.0.0 sdk.kidoz.net 
 0.0.0.0 secure.informaction.com 
 0.0.0.0 selectivesummer.com 
 0.0.0.0 separatesilver.com 
 0.0.0.0 serve.adtrackers.net 
 0.0.0.0 serve.bannertrack.net 
+0.0.0.0 settings.crashlytics.com 
 0.0.0.0 shakesea.com 
 0.0.0.0 shakesuggestion.com 
 0.0.0.0 shakytaste.com 
@@ -390,7 +406,9 @@
 0.0.0.0 ssor.tribdss.com 
 0.0.0.0 startdigitaal.nl 
 0.0.0.0 statgw2.devtodev.com 
+0.0.0.0 static.tidiochat.com 
 0.0.0.0 static.zotabox.com 
+0.0.0.0 stats.appsflyer.com 
 0.0.0.0 stats.zotabox.com 
 0.0.0.0 steadfastsound.com 
 0.0.0.0 stickssheep.com 
@@ -407,6 +425,7 @@
 0.0.0.0 summerhamster.com 
 0.0.0.0 superficialsink.com 
 0.0.0.0 swordgoose.com 
+0.0.0.0 sync.rtk.io 
 0.0.0.0 tags.tiqcdn.com 
 0.0.0.0 talentedsteel.com 
 0.0.0.0 tangibleteam.com 
@@ -423,6 +442,8 @@
 0.0.0.0 thirdrespect.com 
 0.0.0.0 thirstytwig.com 
 0.0.0.0 thomastorch.com 
+0.0.0.0 thor.blindferret.media 
+0.0.0.0 thor.rtk.io 
 0.0.0.0 threechurch.com 
 0.0.0.0 throattrees.com 
 0.0.0.0 ticklesign.com 
