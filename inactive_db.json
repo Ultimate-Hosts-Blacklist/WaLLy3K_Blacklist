@@ -1,6 +1,7 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/WaLLy3K_Blacklist/domains.list": {
-        "1535137563": [
+        "1535482882": [
+            "aloseks.org",
             "chinchickens.com",
             "content.synapsys.us",
             "fd-fp3.wg1.b.yahoo.com",
@@ -15,8 +16,6 @@
             "www.inscname.net",
             "www.insnw.ne"
         ],
-        "to_test": [
-            "aloseks.org"
-        ]
+        "to_test": []
     }
 }
