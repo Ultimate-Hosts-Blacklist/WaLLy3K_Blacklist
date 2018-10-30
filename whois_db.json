@@ -926,8 +926,8 @@
             "state": "future"
         },
         "karisimbi.net": {
-            "epoch": "1540857600",
-            "expiration_date": "30-oct-2018",
+            "epoch": "1572393600",
+            "expiration_date": "30-oct-2019",
             "state": "future"
         },
         "laughcloth.com": {
@@ -1063,6 +1063,11 @@
         "orangeoperation.com": {
             "epoch": "1551225600",
             "expiration_date": "27-feb-2019",
+            "state": "future"
+        },
+        "owlsr.us": {
+            "epoch": "1548028800",
+            "expiration_date": "21-jan-2019",
             "state": "future"
         },
         "parchedangle.com": {
@@ -1353,6 +1358,11 @@
         "shockingswing.com": {
             "epoch": "1548115200",
             "expiration_date": "22-jan-2019",
+            "state": "future"
+        },
+        "shortyz.co": {
+            "epoch": "1547424000",
+            "expiration_date": "14-jan-2019",
             "state": "future"
         },
         "sillyscrew.com": {
