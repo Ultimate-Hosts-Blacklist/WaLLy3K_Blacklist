@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/WaLLy3K_Blacklist/domains.list": {
-        "1545077478": [
+        "1545335732": [
             "aloseks.org",
             "api211.thefilter.com",
             "chinchickens.com",
@@ -18,7 +18,8 @@
             "update.aut5.com",
             "us.intellitxt.com",
             "www.inscname.net",
-            "www.insnw.ne"
+            "www.insnw.ne",
+            "www.roosterfirework.com"
         ],
         "to_test": []
     }
