@@ -8,5 +8,5 @@
     "list_name": "domains.list",
     "name": "Domain Status Testing for Ultimate Hosts Blacklist",
     "raw_link": "https://v.firebog.net/hosts/static/w3kbl.txt",
-    "stable": "0"
+    "stable": "1"
 }
