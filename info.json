@@ -1,11 +1,9 @@
 {
     "arguments": [],
-    "clean_list_file": "clean.list",
     "clean_original": "1",
     "currently_under_test": "0",
     "days_until_next_test": "2",
-    "last_test": "1547237250",
-    "list_name": "domains.list",
+    "last_test": "1547245401",
     "name": "WaLLy3K_Blacklist",
     "raw_link": "https://v.firebog.net/hosts/static/w3kbl.txt",
     "stable": "1"
