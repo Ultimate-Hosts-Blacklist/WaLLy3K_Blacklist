@@ -253,7 +253,7 @@
         "campingforthefunofit.com": {
             "epoch": "1547424000",
             "expiration_date": "14-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "capablecows.com": {
             "epoch": "1570233600",
@@ -1363,7 +1363,7 @@
         "shortyz.co": {
             "epoch": "1547424000",
             "expiration_date": "14-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "sillyscrew.com": {
             "epoch": "1597622400",
