@@ -1133,7 +1133,7 @@
         "ga87z2o.com": {
             "epoch": "1557187200",
             "expiration_date": "07-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "gammamaximum.com": {
             "epoch": "1570233600",
