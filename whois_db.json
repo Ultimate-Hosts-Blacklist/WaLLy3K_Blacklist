@@ -70,8 +70,8 @@
         "state": "future"
     },
     "adiode.com": {
-        "epoch": "1559952000",
-        "expiration_date": "08-jun-2019",
+        "epoch": 1591574400,
+        "expiration_date": "08-jun-2020",
         "state": "future"
     },
     "adtrackers.net": {
@@ -1245,8 +1245,8 @@
         "state": "future"
     },
     "handleteeth.com": {
-        "epoch": "1559174400",
-        "expiration_date": "30-may-2019",
+        "epoch": 1590796800,
+        "expiration_date": "30-may-2020",
         "state": "future"
     },
     "handyfield.com": {
@@ -1445,8 +1445,8 @@
         "state": "future"
     },
     "jamexistence.com": {
-        "epoch": "1559174400",
-        "expiration_date": "30-may-2019",
+        "epoch": 1590796800,
+        "expiration_date": "30-may-2020",
         "state": "future"
     },
     "jikenick12and67.com": {
@@ -2600,8 +2600,8 @@
         "state": "future"
     },
     "thinkabletrick.com": {
-        "epoch": "1559174400",
-        "expiration_date": "30-may-2019",
+        "epoch": 1590796800,
+        "expiration_date": "30-may-2020",
         "state": "future"
     },
     "thirdrespect.com": {
