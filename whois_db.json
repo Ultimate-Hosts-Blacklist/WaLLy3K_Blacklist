@@ -55,8 +55,8 @@
         "state": "future"
     },
     "acquireattention.com": {
-        "epoch": "1559174400",
-        "expiration_date": "30-may-2019",
+        "epoch": 1590796800,
+        "expiration_date": "30-may-2020",
         "state": "future"
     },
     "acridtwist.com": {
@@ -1340,8 +1340,8 @@
         "state": "future"
     },
     "impossiblemove.com": {
-        "epoch": "1559174400",
-        "expiration_date": "30-may-2019",
+        "epoch": 1590796800,
+        "expiration_date": "30-may-2020",
         "state": "future"
     },
     "impulsehands.com": {
@@ -1700,8 +1700,8 @@
         "state": "future"
     },
     "oppositeoperation.com": {
-        "epoch": "1559174400",
-        "expiration_date": "30-may-2019",
+        "epoch": 1590796800,
+        "expiration_date": "30-may-2020",
         "state": "future"
     },
     "optimallimit.com": {
