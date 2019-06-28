@@ -730,9 +730,9 @@
         "state": "future"
     },
     "deploygate.com": {
-        "epoch": "1561680000",
+        "epoch": 1561680000,
         "expiration_date": "28-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "desertedbreath.com": {
         "epoch": "1575072000",
@@ -2825,8 +2825,8 @@
         "state": "future"
     },
     "worrybutter.com": {
-        "epoch": "1560902400",
-        "expiration_date": "19-jun-2019",
+        "epoch": 1592524800,
+        "expiration_date": "19-jun-2020",
         "state": "future"
     },
     "wreckvolcano.com": {
