@@ -205,8 +205,8 @@
         "state": "future"
     },
     "battlehope.com": {
-        "epoch": "1566604800",
-        "expiration_date": "24-aug-2019",
+        "epoch": 1598227200,
+        "expiration_date": "24-aug-2020",
         "state": "future"
     },
     "bawdybeast.com": {
@@ -3740,8 +3740,8 @@
         "state": "future"
     },
     "pizzasnut.com": {
-        "epoch": "1566604800",
-        "expiration_date": "24-aug-2019",
+        "epoch": 1598227200,
+        "expiration_date": "24-aug-2020",
         "state": "future"
     },
     "possessivebucket.com": {
@@ -4035,8 +4035,8 @@
         "state": "future"
     },
     "scientificshirt.com": {
-        "epoch": "1566604800",
-        "expiration_date": "24-aug-2019",
+        "epoch": 1598227200,
+        "expiration_date": "24-aug-2020",
         "state": "future"
     },
     "scintillatingspace.com": {
