@@ -1,21 +1,21 @@
 {
     "currently_under_test": "0",
     "days_until_next_test": 2,
-    "end_datetime": "Mon Sep  2 22:23:25 2019",
-    "end_epoch": 1567463005.58552,
+    "end_datetime": "Wed Sep  4 22:23:51 2019",
+    "end_epoch": 1567635831.011267,
     "name": "WaLLy3K_Blacklist",
     "previous_stats": {
         "builds": 1,
         "counter": {
-            "down": 565,
+            "down": 566,
             "invalid": 0,
             "tested": 1332,
-            "up": 767
+            "up": 766
         },
-        "volatile.list": 767,
+        "volatile.list": 768,
         "whitelisted.list": 766
     },
     "raw_link": "https://v.firebog.net/hosts/static/w3kbl.txt",
-    "start_datetime": "Mon Sep  2 22:19:07 2019",
-    "start_epoch": 1567462747.717812
+    "start_datetime": "Wed Sep  4 22:19:25 2019",
+    "start_epoch": 1567635565.285168
 }

@@ -555,8 +555,8 @@
         "state": "future"
     },
     "consistpotato.com": {
-        "epoch": "1566604800",
-        "expiration_date": "24-aug-2019",
+        "epoch": 1598227200,
+        "expiration_date": "24-aug-2020",
         "state": "future"
     },
     "coordinatedbedroom.com": {
@@ -3600,8 +3600,8 @@
         "state": "future"
     },
     "niftyjelly.com": {
-        "epoch": "1566604800",
-        "expiration_date": "24-aug-2019",
+        "epoch": 1598227200,
+        "expiration_date": "24-aug-2020",
         "state": "future"
     },
     "noiselessplough.com": {
@@ -3995,8 +3995,8 @@
         "state": "future"
     },
     "rpxnow.com": {
-        "epoch": "1567296000",
-        "expiration_date": "01-sep-2019",
+        "epoch": 1598918400,
+        "expiration_date": "01-sep-2020",
         "state": "future"
     },
     "rulerabbit.com": {
@@ -4814,4 +4814,5 @@
         "expiration_date": "14-apr-2020",
         "state": "future"
     }
+}
 }
