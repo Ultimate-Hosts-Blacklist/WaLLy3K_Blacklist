@@ -164,6 +164,11 @@
         "expiration_date": "26-feb-2020",
         "state": "future"
     },
+    "bannertrack.net": {
+        "epoch": 1568851200,
+        "expiration_date": "19-sep-2019",
+        "state": "future"
+    },
     "barbarousnerve.com": {
         "epoch": 1576195200,
         "expiration_date": "13-dec-2019",
@@ -554,6 +559,11 @@
         "expiration_date": "08-oct-2019",
         "state": "future"
     },
+    "culturedcrayon.com": {
+        "epoch": 1590796800,
+        "expiration_date": "30-may-2020",
+        "state": "future"
+    },
     "cumbersomecloud.com": {
         "epoch": 1597622400,
         "expiration_date": "17-aug-2020",
@@ -587,6 +597,11 @@
     "dapperfloor.com": {
         "epoch": 1570492800,
         "expiration_date": "08-oct-2019",
+        "state": "future"
+    },
+    "dashingdirt.com": {
+        "epoch": 1601856000,
+        "expiration_date": "05-oct-2020",
         "state": "future"
     },
     "dashingsweater.com": {
@@ -1394,6 +1409,11 @@
         "expiration_date": "21-mar-2020",
         "state": "future"
     },
+    "lp3tdqle.com": {
+        "epoch": 1582502400,
+        "expiration_date": "24-feb-2020",
+        "state": "future"
+    },
     "lumpyleaf.com": {
         "epoch": 1579651200,
         "expiration_date": "22-jan-2020",
@@ -2039,6 +2059,11 @@
         "expiration_date": "08-oct-2019",
         "state": "future"
     },
+    "slipperysack.com": {
+        "epoch": 1575072000,
+        "expiration_date": "30-nov-2019",
+        "state": "future"
+    },
     "smilingwaves.com": {
         "epoch": 1597622400,
         "expiration_date": "17-aug-2020",
@@ -2317,6 +2342,11 @@
     "tendertest.com": {
         "epoch": 1598227200,
         "expiration_date": "24-aug-2020",
+        "state": "future"
+    },
+    "texturetrick.com": {
+        "epoch": 1570492800,
+        "expiration_date": "08-oct-2019",
         "state": "future"
     },
     "thefilter.com": {
