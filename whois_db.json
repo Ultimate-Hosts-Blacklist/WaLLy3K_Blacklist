@@ -299,6 +299,11 @@
         "expiration_date": "22-jan-2020",
         "state": "future"
     },
+    "btez8.xyz": {
+        "epoch": 1595808000,
+        "expiration_date": "27-jul-2020",
+        "state": "future"
+    },
     "bucketbean.com": {
         "epoch": 1601856000,
         "expiration_date": "05-oct-2020",
@@ -925,8 +930,8 @@
         "state": "future"
     },
     "farmergoldfish.com": {
-        "epoch": 1570233600,
-        "expiration_date": "05-oct-2019",
+        "epoch": 1601856000,
+        "expiration_date": "05-oct-2020",
         "state": "future"
     },
     "faultycanvas.com": {
