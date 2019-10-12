@@ -675,7 +675,8 @@
         "wigglygeese.com",
         "capablecows.com",
         "spottedsnow.com",
-        "ls.srvcs.tumblr.com"
+        "ls.srvcs.tumblr.com",
+        "saber.srvcs.tumblr.com"
     ],
     "INACTIVE": [
         "www.mixedreading.com",
@@ -1318,6 +1319,26 @@
         "tritetongue.com",
         "calmfoot.com",
         "www.calmfoot.com",
-        "telemetry.gfe.nvidia.com"
+        "telemetry.gfe.nvidia.com",
+        "app-analytics.snapchat.com",
+        "cdn.districtm.io",
+        "settings.crashlytics.com",
+        "us.intellitxt.com",
+        "www.static-assets-queue-it.net",
+        "static-assets-queue-it.net",
+        "guardedgovernor.com",
+        "www.guardedgovernor.com",
+        "metric.kleientertainment.com",
+        "app.adjust.com",
+        "accounts.nvgs.nvidia.com",
+        "www.aloseks.org",
+        "aloseks.org",
+        "gstaticadssl.l.google.com",
+        "trk.klclick.com",
+        "telemetry.malwarebytes.com",
+        "shiveringsail.com",
+        "www.shiveringsail.com",
+        "euw.adserver.snapads.com",
+        "content.synapsys.us"
     ]
 }
