@@ -1350,7 +1350,6 @@
             "www.copyrightaccesscontrols.com": "INACTIVE"
         },
         "1570837012": {
-            "collector.abc-host.net.au": "INACTIVE",
             "www.alertafterthought.com": "INACTIVE",
             "www.drydrum.com": "INACTIVE"
         },
@@ -1774,6 +1773,25 @@
         },
         "1570965697": {
             "telemetry.malwarebytes.com": "INACTIVE"
+        },
+        "1570969966": {
+            "sneaklevel.com": "INACTIVE"
+        },
+        "1570969973": {
+            "www.guardedgovernor.com": "INACTIVE"
+        },
+        "1570970117": {
+            "www.shallowschool.com": "INACTIVE"
+        },
+        "1570970121": {
+            "www.guitarbelieve.com": "INACTIVE"
+        },
+        "1570970127": {
+            "delightdriving.com": "INACTIVE"
+        },
+        "1570970128": {
+            "collector.abc-host.net.au": "INACTIVE",
+            "sinceresofa.com": "INACTIVE"
         }
     }
 }
