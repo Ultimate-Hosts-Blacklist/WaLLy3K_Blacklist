@@ -550,7 +550,6 @@
             "www.nostalgicknot.com": "INACTIVE",
             "www.oppositeoperation.com": "INACTIVE",
             "www.optimallimit.com": "INACTIVE",
-            "www.ovalpigs.com": "INACTIVE",
             "www.owlsr.us": "INACTIVE",
             "www.paddleangle.com": "INACTIVE",
             "www.penspade.com": "INACTIVE",
@@ -1226,9 +1225,6 @@
         "1570711358": {
             "simplisticnose.com": "INACTIVE"
         },
-        "1570711367": {
-            "www.ovalpigs.com": "INACTIVE"
-        },
         "1570836695": {
             "is-tracking-pixel-api-prod.appspot.com": "INACTIVE",
             "www.absentstream.com": "INACTIVE",
@@ -1490,8 +1486,7 @@
         },
         "1570841365": {
             "shallowschool.com": "INACTIVE",
-            "truthfulturn.com": "INACTIVE",
-            "www.ovalpigs.com": "INACTIVE"
+            "truthfulturn.com": "INACTIVE"
         },
         "1570841371": {
             "crownclam.com": "INACTIVE",
@@ -2318,6 +2313,48 @@
         },
         "1571269090": {
             "accounts.nvgs.nvidia.com": "INACTIVE"
+        },
+        "1571273332": {
+            "www.guardedgovernor.com": "INACTIVE"
+        },
+        "1571273348": {
+            "www.delightdriving.com": "INACTIVE"
+        },
+        "1571273349": {
+            "www.matchcows.com": "INACTIVE"
+        },
+        "1571273481": {
+            "telemetry.malwarebytes.com": "INACTIVE"
+        },
+        "1571273488": {
+            "ade.googlesyndication.com": "INACTIVE"
+        },
+        "1571273489": {
+            "dolphindispute.com": "INACTIVE"
+        },
+        "1571273496": {
+            "usc.adserver.snapads.com": "INACTIVE"
+        },
+        "1571273497": {
+            "simplisticnose.com": "INACTIVE"
+        },
+        "1571273498": {
+            "www.cherrythread.com": "INACTIVE"
+        },
+        "1571273502": {
+            "content.synapsys.us": "INACTIVE"
+        },
+        "1571273503": {
+            "www.consciouscabbage.com": "INACTIVE"
+        },
+        "1571273512": {
+            "ads.samsung.com": "INACTIVE"
+        },
+        "1571273524": {
+            "www.insnw.ne": "INACTIVE"
+        },
+        "1571273531": {
+            "www.ovalpigs.com": "INACTIVE"
         }
     }
 }
