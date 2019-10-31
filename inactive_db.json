@@ -1,1690 +1,373 @@
 {
     "api_call": {
-        "1571698797": {
-            "www.mowfruit.com": "INACTIVE"
-        },
-        "1571698798": {
-            "simplisticnose.com": "INACTIVE",
-            "www.docj27ko03fnu.cloudfront.net": "INACTIVE",
-            "www.drydrum.com": "INACTIVE",
-            "www.impossiblemove.com": "INACTIVE",
-            "www.optimallimit.com": "INACTIVE",
-            "www.quizzicalzephyr.com": "INACTIVE",
-            "www.simplisticnose.com": "INACTIVE",
-            "www.thingsafterthought.com": "INACTIVE"
-        },
-        "1571698803": {
-            "wildcard.moatads.com.edgekey.net": "INACTIVE",
-            "www.desertedrat.com": "INACTIVE",
-            "www.paleleaf.com": "INACTIVE",
-            "www.squeamishscarecrow.com": "INACTIVE",
-            "www.tempttalk.com": "INACTIVE",
-            "www.wreckvolcano.com": "INACTIVE"
-        },
-        "1571698808": {
-            "ade.googlesyndication.com": "INACTIVE",
-            "www.coinhiveproxy.com": "INACTIVE",
-            "www.drivingdirt.com": "INACTIVE",
-            "www.photographpan.com": "INACTIVE",
-            "www.volantix.com": "INACTIVE"
-        },
-        "1571698809": {
-            "spectacularsnail.com": "INACTIVE",
-            "www.5mcwl.pw": "INACTIVE",
-            "www.motionlessbag.com": "INACTIVE",
-            "www.noiselessplough.com": "INACTIVE"
-        },
-        "1571698814": {
-            "consciouscabbage.com": "INACTIVE",
-            "www.selectionship.com": "INACTIVE",
-            "www.supervisegoldfish.com": "INACTIVE",
-            "www.usedexample.com": "INACTIVE"
-        },
-        "1571698819": {
-            "shiveringsail.com": "INACTIVE",
-            "www.cannonjudo.com": "INACTIVE",
-            "www.giftedglue.com": "INACTIVE",
-            "www.swordgoose.com": "INACTIVE"
-        },
-        "1571698820": {
-            "www.comfortablecheese.com": "INACTIVE",
-            "www.d35fgcharv2shj.cloudfront.net": "INACTIVE",
-            "www.steadfastsystem.com": "INACTIVE"
-        },
-        "1571698821": {
-            "www.bawdybeast.com": "INACTIVE",
-            "www.commandwalk.com": "INACTIVE",
-            "www.d3hmp0045zy3cs.cloudfront.net": "INACTIVE",
-            "www.nullnorth.com": "INACTIVE",
-            "www.shakytaste.com": "INACTIVE",
-            "www.succeedscene.com": "INACTIVE"
-        },
-        "1571698825": {
-            "www.ariseboundary.com": "INACTIVE",
-            "www.critictruck.com": "INACTIVE",
-            "www.shakesuggestion.com": "INACTIVE"
-        },
-        "1571698830": {
-            "www.futuristicapparatus.com": "INACTIVE",
-            "www.greetzebra.com": "INACTIVE",
-            "www.modifyeyes.com": "INACTIVE",
-            "www.nervoussummer.com": "INACTIVE",
-            "www.referdriving.com": "INACTIVE",
-            "www.rhetoricalloss.com": "INACTIVE",
-            "www.sparklingnumber.com": "INACTIVE"
-        },
-        "1571698831": {
-            "tracedesire.com": "INACTIVE"
-        },
-        "1571698832": {
-            "www.elderlyinsect.com": "INACTIVE",
-            "www.k54nw.pw": "INACTIVE"
-        },
-        "1571698837": {
-            "aloseks.org": "INACTIVE",
-            "www.blushingbeast.com": "INACTIVE",
-            "www.caringzinc.com": "INACTIVE",
-            "www.endurableshop.com": "INACTIVE",
-            "www.funnyairplane.com": "INACTIVE",
-            "www.jamexistence.com": "INACTIVE",
-            "www.quacksquirrel.com": "INACTIVE"
-        },
-        "1571698838": {
-            "cdn.districtm.io": "INACTIVE",
-            "gfe.geforce.com": "INACTIVE",
-            "www.beamincrease.com": "INACTIVE",
-            "www.elderlyscissors.com": "INACTIVE"
-        },
-        "1571698839": {
-            "www.calculatingtoothbrush.com": "INACTIVE"
-        },
-        "1571698843": {
-            "metric.kleientertainment.com": "INACTIVE"
-        },
-        "1571698844": {
-            "www.capablecows.com": "INACTIVE",
-            "www.decisiveducks.com": "INACTIVE",
-            "www.rodeopolice.com": "INACTIVE"
-        },
-        "1571698845": {
-            "www.separatesilver.com": "INACTIVE",
-            "www.unusualtitle.com": "INACTIVE"
-        },
-        "1571698850": {
-            "outcome-ssp.supersonicads.com": "INACTIVE",
-            "telemetry.nvidia.com": "INACTIVE",
-            "us.intellitxt.com": "INACTIVE",
-            "www.enthusiasticdad.com": "INACTIVE",
-            "www.toedrawer.com": "INACTIVE"
-        },
-        "1571698851": {
-            "www.damdoor.com": "INACTIVE",
-            "www.greasemotion.com": "INACTIVE",
-            "www.knottysticks.com": "INACTIVE",
-            "www.perpetualpail.com": "INACTIVE",
-            "www.profitrumour.com": "INACTIVE",
-            "www.raresummer.com": "INACTIVE",
-            "www.sillyscrew.com": "INACTIVE"
-        },
-        "1571698852": {
-            "settings.crashlytics.com": "INACTIVE",
-            "usc.adserver.snapads.com": "INACTIVE",
-            "www.cutecushion.com": "INACTIVE",
-            "www.exclusivebrass.com": "INACTIVE",
-            "www.investigatepin.com": "INACTIVE",
-            "www.quicksandear.com": "INACTIVE"
-        },
-        "1571698853": {
-            "www.agreeabletouch.com": "INACTIVE",
-            "www.wryfinger.com": "INACTIVE"
-        },
-        "1571698857": {
-            "www.volantix.com": "INACTIVE"
-        },
-        "1571698858": {
-            "www.beamkite.com": "INACTIVE",
-            "www.d20i5e3rqc90ne.cloudfront.net": "INACTIVE",
-            "www.driverequest.com": "INACTIVE",
-            "www.memorycobweb.com": "INACTIVE",
-            "www.quaintcan.com": "INACTIVE",
-            "www.worrybutter.com": "INACTIVE"
-        },
-        "1571698859": {
-            "rules.noadblock.org": "INACTIVE",
-            "www.futuristicfairies.com": "INACTIVE",
-            "www.rhymezebra.com": "INACTIVE",
-            "www.tranquilside.com": "INACTIVE",
-            "www.typicalteeth.com": "INACTIVE",
-            "www.wateryvan.com": "INACTIVE"
-        },
-        "1571698860": {
-            "www.detailedglue.com": "INACTIVE",
-            "www.excuseearthquake.com": "INACTIVE",
-            "www.fuzzyflavor.com": "INACTIVE",
-            "www.instrumentsponge.com": "INACTIVE",
-            "www.provideplant.com": "INACTIVE"
-        },
-        "1571698861": {
-            "familiarfloor.com": "INACTIVE",
-            "telemetry.gfe.nvidia.com": "INACTIVE",
-            "www.absurdwater.com": "INACTIVE",
-            "www.familiarfloor.com": "INACTIVE",
-            "www.strivesidewalk.com": "INACTIVE"
-        },
-        "1571698862": {
-            "www.penspade.com": "INACTIVE"
-        },
-        "1571698867": {
-            "www.foregoingfowl.com": "INACTIVE",
-            "www.partplanes.com": "INACTIVE",
-            "www.scrubswim.com": "INACTIVE",
-            "www.selfishsea.com": "INACTIVE",
-            "www.supplysummer.com": "INACTIVE"
-        },
-        "1571698868": {
-            "insnw.ne": "INACTIVE",
-            "www.bulbbait.com": "INACTIVE",
-            "www.d29usylhdk1xyu.cloudfront.net": "INACTIVE",
-            "www.presetrabbits.com": "INACTIVE",
-            "www.spottednoise.com": "INACTIVE",
-            "www.tendertest.com": "INACTIVE"
-        },
-        "1571698869": {
-            "au.np.adproxy.ndmdhs.com": "INACTIVE",
-            "rs.fullstory.com": "INACTIVE",
-            "shallowschool.com": "INACTIVE",
-            "www.calmfoot.com": "INACTIVE",
-            "www.parsimoniouspolice.com": "INACTIVE"
-        },
-        "1571698874": {
-            "accounts.nvgs.nvidia.com": "INACTIVE"
-        },
-        "1571698875": {
-            "www.commonswing.com": "INACTIVE",
-            "www.spottysense.com": "INACTIVE",
-            "www.structurerod.com": "INACTIVE",
-            "www.zbwp6ghm.com": "INACTIVE"
-        },
-        "1571698876": {
-            "www.fourfork.com": "INACTIVE",
-            "www.innocentinvention.com": "INACTIVE",
-            "www.straightnest.com": "INACTIVE",
-            "www.thinkabletrick.com": "INACTIVE"
-        },
-        "1571698877": {
-            "app-analytics.snapchat.com": "INACTIVE",
-            "gstaticadssl.l.google.com": "INACTIVE",
-            "www.inventionpassenger.com": "INACTIVE",
-            "www.shelterstraw.com": "INACTIVE",
-            "www.teenyvolcano.com": "INACTIVE"
-        },
-        "1571698878": {
-            "www.delightfulhour.com": "INACTIVE",
-            "www.giftedthumb.com": "INACTIVE"
-        },
-        "1571698879": {
-            "g.ezoic.net": "INACTIVE",
-            "www.dapperfloor.com": "INACTIVE",
-            "www.truckstomatoes.com": "INACTIVE"
-        },
-        "1571698880": {
-            "www.clearcabbage.com": "INACTIVE",
-            "www.perceivequarter.com": "INACTIVE",
-            "www.readingguilt.com": "INACTIVE",
-            "www.rememberroute.com": "INACTIVE",
-            "www.toweringrun.com": "INACTIVE"
-        },
-        "1571698881": {
-            "advertising.oriel.io": "INACTIVE",
-            "truthfulturn.com": "INACTIVE",
-            "www.awzbijw.com": "INACTIVE",
-            "www.humdrumhat.com": "INACTIVE",
-            "www.selectivesummer.com": "INACTIVE",
-            "www.untidyrice.com": "INACTIVE",
-            "www.voicevegetable.com": "INACTIVE"
-        },
-        "1571698882": {
-            "www.loudloss.com": "INACTIVE",
-            "www.snakesshop.com": "INACTIVE",
-            "www.uttermosthobbies.com": "INACTIVE"
-        },
-        "1571698883": {
-            "www.roosterfirework.com": "INACTIVE"
-        },
-        "1571698884": {
-            "www.chunkycactus.com": "INACTIVE",
-            "www.gleamingtrade.com": "INACTIVE",
-            "www.memorizeneck.com": "INACTIVE",
-            "www.richstring.com": "INACTIVE"
-        },
-        "1571698885": {
-            "fast.fonts.net": "INACTIVE",
-            "matchcows.com": "INACTIVE",
-            "snakesort.com": "INACTIVE",
-            "www.2znp09oa.com": "INACTIVE",
-            "www.inscname.net": "INACTIVE",
-            "www.resonantrock.com": "INACTIVE"
-        },
-        "1571698886": {
-            "www.breakfastboat.com": "INACTIVE"
-        },
-        "1571698887": {
-            "www.broadcastbed.com": "INACTIVE",
-            "www.frailoffer.com": "INACTIVE",
-            "www.previouspotato.com": "INACTIVE",
-            "www.wellmadefrog.com": "INACTIVE"
-        },
-        "1571698888": {
-            "www.dispensablestranger.com": "INACTIVE",
-            "www.glossysense.com": "INACTIVE",
-            "www.happenhistory.com": "INACTIVE",
-            "www.invisioncloudstats.com": "INACTIVE"
-        },
-        "1571698889": {
-            "api211.thefilter.com": "INACTIVE",
-            "www.balancebreath.com": "INACTIVE",
-            "www.omniscientfeeling.com": "INACTIVE",
-            "www.sicksmash.com": "INACTIVE"
-        },
-        "1571698890": {
-            "ssor.tribdss.com": "INACTIVE",
-            "www.hurtteeth.com": "INACTIVE",
-            "www.informengine.com": "INACTIVE"
-        },
-        "1571698891": {
-            "www.detectdiscovery.com": "INACTIVE",
-            "www.efficaciouscactus.com": "INACTIVE",
-            "www.jadeitite.com": "INACTIVE",
-            "www.readymoon.com": "INACTIVE",
-            "www.thirstytwig.com": "INACTIVE"
-        },
-        "1571698892": {
-            "www.gorgeousground.com": "INACTIVE"
-        },
-        "1571698893": {
-            "www.docksalmon.com": "INACTIVE",
-            "www.sdad.guru": "INACTIVE",
-            "www.teschenite.com": "INACTIVE",
-            "www.timetwig.com": "INACTIVE",
-            "www.unknowntray.com": "INACTIVE"
-        },
-        "1571698894": {
-            "msmetrics.ws.sonos.com": "INACTIVE",
-            "www.bucketbean.com": "INACTIVE",
-            "www.hollowshake.com": "INACTIVE",
-            "www.piquantstove.com": "INACTIVE",
-            "www.shyseed.com": "INACTIVE",
-            "www.slimyscarf.com": "INACTIVE"
-        },
-        "1571698895": {
-            "www.ambitiousagreement.com": "INACTIVE"
-        },
-        "1571698900": {
-            "hbopenbid.pubmatic.com": "INACTIVE",
-            "www.spirebaboon.com": "INACTIVE"
-        },
-        "1571698901": {
-            "www.tarttendency.com": "INACTIVE",
-            "www.whirlwealth.com": "INACTIVE"
-        },
-        "1571698902": {
-            "rpc.tapjoy.com": "INACTIVE",
-            "sdk.iad-05.braze.com": "INACTIVE",
-            "www.82o9v830.com": "INACTIVE",
-            "www.dragzebra.com": "INACTIVE",
-            "www.flimsycircle.com": "INACTIVE"
-        },
-        "1571698903": {
-            "www.saysidewalk.com": "INACTIVE"
-        },
-        "1571698904": {
-            "www.clearcomb.com": "INACTIVE",
-            "www.futuristicfear.com": "INACTIVE",
-            "www.petiteumbrella.com": "INACTIVE",
-            "www.static-assets-queue-it.net": "INACTIVE"
-        },
-        "1571698905": {
-            "api-lytics.macpaw.com": "INACTIVE",
-            "www.afraidlanguage.com": "INACTIVE",
-            "www.attractivecap.com": "INACTIVE",
-            "www.businessbells.com": "INACTIVE",
-            "www.vanfireworks.com": "INACTIVE"
-        },
-        "1571698906": {
-            "www.cherrythread.com": "INACTIVE"
-        },
-        "1571698907": {
-            "www.ak0gsh40.com": "INACTIVE",
-            "www.broadboundary.com": "INACTIVE",
-            "www.futuristicfifth.com": "INACTIVE"
-        },
-        "1571698908": {
-            "analytics.ff.avast.com": "INACTIVE",
-            "incrediblesugar.com": "INACTIVE",
-            "www.earthycopy.com": "INACTIVE"
-        },
-        "1571698926": {
-            "www.roughroll.com": "INACTIVE"
-        },
-        "1571698927": {
-            "www.calculatorcamera.com": "INACTIVE"
-        },
-        "1571698940": {
-            "sdk.iad-02.braze.com": "INACTIVE"
-        },
-        "1571698941": {
-            "cws.conviva.com": "INACTIVE",
-            "www.acquireattention.com": "INACTIVE",
-            "www.calculatingcircle.com": "INACTIVE",
-            "www.completecabbage.com": "INACTIVE",
-            "www.limpingline.com": "INACTIVE"
-        },
-        "1571698942": {
-            "www.justicejudo.com": "INACTIVE",
-            "www.tremendoustreatment.com": "INACTIVE"
-        },
-        "1571698948": {
-            "www.mimosamajor.com": "INACTIVE"
-        },
-        "1571742159": {
-            "www.briefbears.com": "INACTIVE",
-            "www.copycarpenter.com": "INACTIVE",
-            "www.defectivesun.com": "INACTIVE",
-            "www.excuseearthquake.com": "INACTIVE",
-            "www.greyinstrument.com": "INACTIVE",
-            "www.slipperysack.com": "INACTIVE"
-        },
-        "1571742160": {
-            "www.ambitiousagreement.com": "INACTIVE",
-            "www.divergentoffer.com": "INACTIVE",
-            "www.ruthlessmilk.com": "INACTIVE",
-            "www.sincerebuffalo.com": "INACTIVE"
-        },
-        "1571742162": {
-            "www.d20i5e3rqc90ne.cloudfront.net": "INACTIVE",
-            "www.uaswitcher.org": "INACTIVE"
-        },
-        "1571742163": {
-            "www.sillyscrew.com": "INACTIVE",
-            "www.spottysense.com": "INACTIVE",
-            "www.structuresofa.com": "INACTIVE",
-            "www.truckstomatoes.com": "INACTIVE"
-        },
-        "1571742164": {
-            "www.readymoon.com": "INACTIVE"
-        },
-        "1571742165": {
-            "kvinit-prod.api.kochava.com": "INACTIVE",
-            "www.minormeeting.com": "INACTIVE",
-            "www.rememberroute.com": "INACTIVE",
-            "www.stripedburst.com": "INACTIVE"
-        },
-        "1571742166": {
-            "www.completecabbage.com": "INACTIVE",
-            "www.decisivedrawer.com": "INACTIVE",
-            "www.farethief.com": "INACTIVE",
-            "www.faultycanvas.com": "INACTIVE",
-            "www.raresummer.com": "INACTIVE",
-            "www.scrubswim.com": "INACTIVE"
-        },
-        "1571742167": {
-            "www.teenyvolcano.com": "INACTIVE"
-        },
-        "1571742168": {
-            "spillvacation.com": "INACTIVE",
-            "www.awzbijw.com": "INACTIVE",
-            "www.cuteturkey.com": "INACTIVE",
-            "www.paddleangle.com": "INACTIVE",
-            "www.tangibleteam.com": "INACTIVE"
-        },
-        "1571742169": {
-            "www.enviousthread.com": "INACTIVE",
-            "www.gleamingtrade.com": "INACTIVE",
-            "www.noiselessplough.com": "INACTIVE",
-            "www.sharppatch.com": "INACTIVE"
-        },
-        "1571742170": {
-            "www.hilariouszinc.com": "INACTIVE"
-        },
-        "1571742175": {
-            "www.anxiousapples.com": "INACTIVE"
-        },
-        "1571742176": {
-            "v7event.stats.avast.com": "INACTIVE",
-            "www.driverequest.com": "INACTIVE"
-        },
-        "1571742177": {
-            "www.ctoid.net": "INACTIVE"
-        },
-        "1571742178": {
-            "www.copyrightaccesscontrols.com": "INACTIVE",
-            "www.enthusiasticdad.com": "INACTIVE",
-            "www.knifeoctopus.com": "INACTIVE",
-            "www.nostalgicknot.com": "INACTIVE"
-        },
-        "1571742184": {
-            "cherrythread.com": "INACTIVE",
-            "www.differentdesk.com": "INACTIVE",
-            "www.impossiblemove.com": "INACTIVE"
-        },
-        "1571742185": {
-            "shelterstraw.com": "INACTIVE",
-            "www.auntants.com": "INACTIVE",
-            "www.delegatediscussion.com": "INACTIVE",
-            "www.slaysweater.com": "INACTIVE",
-            "www.thirstytwig.com": "INACTIVE"
-        },
-        "1571742186": {
-            "www.elderlyinsect.com": "INACTIVE"
-        },
-        "1571742187": {
-            "www.reflectivereward.com": "INACTIVE",
-            "www.untidyquestion.com": "INACTIVE",
-            "www.unusualtitle.com": "INACTIVE"
-        },
-        "1571742188": {
-            "terribleturkey.com": "INACTIVE",
-            "www.archswimming.com": "INACTIVE"
-        },
-        "1571742196": {
-            "www.possibleboats.com": "INACTIVE"
-        },
-        "1571742211": {
-            "www.boilingbeetle.com": "INACTIVE"
-        },
-        "1571742220": {
-            "www.puffyloss.com": "INACTIVE"
-        },
-        "1571742221": {
-            "www.straightnest.com": "INACTIVE"
-        },
-        "1571742227": {
-            "www.hurtteeth.com": "INACTIVE",
-            "www.limpingline.com": "INACTIVE",
-            "www.respectrain.com": "INACTIVE",
-            "www.selfishsea.com": "INACTIVE"
-        },
-        "1571742232": {
-            "www.gorgeousground.com": "INACTIVE"
-        },
-        "1571742233": {
-            "www.billowybead.com": "INACTIVE",
-            "www.sombersea.com": "INACTIVE",
-            "www.tremendoustreatment.com": "INACTIVE"
-        },
-        "1571742234": {
-            "www.chairscrack.com": "INACTIVE",
-            "www.homelycrown.com": "INACTIVE",
-            "www.shockinggrass.com": "INACTIVE",
-            "www.spidersboats.com": "INACTIVE",
-            "www.trickycelery.com": "INACTIVE"
-        },
-        "1571742235": {
-            "www.futuristicfairies.com": "INACTIVE",
-            "www.innocentinvention.com": "INACTIVE",
-            "www.toedrawer.com": "INACTIVE"
-        },
-        "1571742240": {
-            "www.fullstory.com": "INACTIVE",
-            "www.motionlessbag.com": "INACTIVE",
-            "www.parsimoniouspolice.com": "INACTIVE"
-        },
-        "1571742241": {
-            "www.advertisementafterthought.com": "INACTIVE",
-            "www.presetrabbits.com": "INACTIVE"
-        },
-        "1571742245": {
-            "trk.klclick.com": "INACTIVE",
-            "www.bawdybeast.com": "INACTIVE"
-        },
-        "1571742251": {
-            "www.docj27ko03fnu.cloudfront.net": "INACTIVE",
-            "www.facilitategrandfather.com": "INACTIVE"
-        },
-        "1571742257": {
-            "telemetry.malwarebytes.com": "INACTIVE",
-            "www.mowfruit.com": "INACTIVE"
-        },
-        "1571742258": {
-            "www.hfc195b.com": "INACTIVE",
-            "www.jikenick12and67.com": "INACTIVE"
-        },
-        "1571742259": {
-            "www.dk4ywix.com": "INACTIVE",
-            "www.icebergindigo.com": "INACTIVE"
-        },
-        "1571742264": {
-            "www.4jnzhl0d0.com": "INACTIVE",
-            "www.crayoncompetition.com": "INACTIVE",
-            "wwww.4jnzhl0d0.com": "INACTIVE"
-        },
-        "1571742265": {
-            "www.coordinatedcub.com": "INACTIVE",
-            "www.farmergoldfish.com": "INACTIVE",
-            "www.spurioussteam.com": "INACTIVE"
-        },
-        "1571742266": {
-            "content.synapsys.us": "INACTIVE"
-        },
-        "1571742267": {
-            "euw.adserver.snapads.com": "INACTIVE",
+        "1572519711": {
             "www.6ldu6qa.com": "INACTIVE",
-            "www.pizzasnut.com": "INACTIVE"
-        },
-        "1571742272": {
-            "guardedgovernor.com": "INACTIVE",
-            "www.guardedgovernor.com": "INACTIVE",
-            "www.heavyplayground.com": "INACTIVE"
-        },
-        "1571742273": {
-            "www.broadcastbed.com": "INACTIVE",
-            "www.earthycopy.com": "INACTIVE"
-        },
-        "1571742274": {
-            "www.shakesea.com": "INACTIVE"
-        },
-        "1571742275": {
-            "www.quacksquirrel.com": "INACTIVE"
-        },
-        "1571742276": {
-            "lopsidedspoon.com": "INACTIVE",
-            "www.cautiouscredit.com": "INACTIVE",
-            "www.justicejudo.com": "INACTIVE"
-        },
-        "1571742281": {
-            "www.chunkycactus.com": "INACTIVE"
-        },
-        "1571742282": {
-            "www.actuallysheep.com": "INACTIVE",
-            "www.slimyscarf.com": "INACTIVE"
-        },
-        "1571742283": {
-            "www.practicetoothpaste.com": "INACTIVE",
-            "www.strivesidewalk.com": "INACTIVE"
-        },
-        "1571742284": {
-            "www.squeamishscarecrow.com": "INACTIVE"
-        },
-        "1571742285": {
-            "www.peacepowder.com": "INACTIVE"
-        },
-        "1571742286": {
-            "www.d29usylhdk1xyu.cloudfront.net": "INACTIVE",
-            "www.markedcrayon.com": "INACTIVE"
-        },
-        "1571742287": {
-            "www.detailedgovernment.com": "INACTIVE",
-            "www.spottedsnow.com": "INACTIVE",
-            "www.zbwp6ghm.com": "INACTIVE"
-        },
-        "1571742288": {
-            "www.chesscolor.com": "INACTIVE",
-            "www.erraticreaction.com": "INACTIVE",
-            "www.lizardslaugh.com": "INACTIVE",
-            "www.similarsabine.com": "INACTIVE"
-        },
-        "1571742289": {
-            "sdk.appsflyer.com": "INACTIVE",
-            "www.floodprincipal.com": "INACTIVE",
-            "www.untidyrice.com": "INACTIVE",
-            "www.xovq5nemr.com": "INACTIVE"
-        },
-        "1571742290": {
-            "superficialsink.com": "INACTIVE",
-            "www.decoycreation.com": "INACTIVE",
-            "www.fadedprofit.com": "INACTIVE"
-        },
-        "1571742291": {
-            "www.futuristicfifth.com": "INACTIVE",
-            "www.livelumber.com": "INACTIVE"
-        },
-        "1571742292": {
-            "www.dq95d35.com": "INACTIVE",
-            "www.tendertest.com": "INACTIVE"
-        },
-        "1571742293": {
-            "www.immensehoney.com": "INACTIVE",
-            "www.jewelcheese.com": "INACTIVE",
-            "www.wirecomic.com": "INACTIVE"
-        },
-        "1571742294": {
-            "www.aboriginalboats.com": "INACTIVE",
-            "www.previouspotato.com": "INACTIVE"
-        },
-        "1571742295": {
-            "www.ar1nvz5.com": "INACTIVE",
-            "www.carscannon.com": "INACTIVE",
-            "www.cubchannel.com": "INACTIVE",
-            "www.memorizeneck.com": "INACTIVE"
-        },
-        "1571742296": {
-            "www.cumbersomecloud.com": "INACTIVE",
-            "www.giraffepiano.com": "INACTIVE"
-        },
-        "1571742297": {
-            "www.acquireattention.com": "INACTIVE",
-            "www.sparklingnumber.com": "INACTIVE"
-        },
-        "1571742298": {
-            "www.damdoor.com": "INACTIVE",
-            "www.waryfog.com": "INACTIVE"
-        },
-        "1571742303": {
-            "www.volantix.com": "INACTIVE"
-        },
-        "1571742318": {
-            "www.squeakzinc.com": "INACTIVE"
-        },
-        "1571742332": {
-            "www.crownclam.com": "INACTIVE"
-        },
-        "1572043588": {
-            "www.instrumentsponge.com": "INACTIVE",
-            "www.stripedburst.com": "INACTIVE"
-        },
-        "1572043589": {
-            "cameforcameand33212.com": "INACTIVE",
-            "www.rhymezebra.com": "INACTIVE",
-            "www.thirstytwig.com": "INACTIVE"
-        },
-        "1572043590": {
-            "www.boilingumbrella.com": "INACTIVE",
-            "www.consciousdirt.com": "INACTIVE",
-            "www.futuristicfairies.com": "INACTIVE",
-            "www.internalsink.com": "INACTIVE"
-        },
-        "1572043591": {
-            "placements.tapjoy.com": "INACTIVE",
-            "www.drydrum.com": "INACTIVE"
-        },
-        "1572043592": {
-            "www.deadpantruck.com": "INACTIVE",
-            "www.endurableshop.com": "INACTIVE"
-        },
-        "1572043594": {
-            "www.foregoingfowl.com": "INACTIVE",
-            "www.lizardslaugh.com": "INACTIVE",
-            "www.mountaintail.com": "INACTIVE"
-        },
-        "1572043599": {
-            "www.82o9v830.com": "INACTIVE",
-            "www.bhcumsc.com": "INACTIVE"
-        },
-        "1572043600": {
-            "adservice.google.com.au": "INACTIVE",
-            "nexus.ensighten.com": "INACTIVE",
-            "www.awakebird.com": "INACTIVE",
-            "www.channelcamp.com": "INACTIVE",
-            "www.greetzebra.com": "INACTIVE",
-            "www.materialisticfan.com": "INACTIVE",
-            "www.photographpan.com": "INACTIVE",
-            "www.subsequentswim.com": "INACTIVE"
-        },
-        "1572043601": {
-            "www.highfalutinroom.com": "INACTIVE",
-            "www.tritetongue.com": "INACTIVE"
-        },
-        "1572043602": {
-            "ip-info.ff.avast.com": "INACTIVE",
-            "www.thinkablerice.com": "INACTIVE"
-        },
-        "1572043603": {
-            "www.screechingfurniture.com": "INACTIVE",
-            "www.spendpest.com": "INACTIVE",
-            "www.storescissors.com": "INACTIVE",
-            "www.zealousfield.com": "INACTIVE"
-        },
-        "1572043604": {
-            "www.encourageidea.com": "INACTIVE",
-            "www.storesurprise.com": "INACTIVE"
-        },
-        "1572043605": {
-            "www.calmfoot.com": "INACTIVE",
-            "www.productivepear.com": "INACTIVE"
-        },
-        "1572043606": {
-            "www.nondescriptcrowd.com": "INACTIVE"
-        },
-        "1572043607": {
-            "ad.fyber.angsrvr.com": "INACTIVE"
-        },
-        "1572043608": {
-            "www.afraidlanguage.com": "INACTIVE",
-            "www.balloontexture.com": "INACTIVE",
-            "www.informengine.com": "INACTIVE",
-            "www.scarcesign.com": "INACTIVE"
-        },
-        "1572043614": {
-            "beamkite.com": "INACTIVE",
-            "www.stormyachiever.com": "INACTIVE"
-        },
-        "1572043621": {
-            "www.flimsycircle.com": "INACTIVE"
-        },
-        "1572043641": {
-            "tidytrail.com": "INACTIVE"
-        },
-        "1572043648": {
-            "www.chinchickens.com": "INACTIVE",
-            "www.niftyhospital.com": "INACTIVE",
-            "www.pietexture.com": "INACTIVE",
-            "www.uttermosthobbies.com": "INACTIVE"
-        },
-        "1572043649": {
-            "www.hfc195b.com": "INACTIVE",
-            "www.parsimoniouspolice.com": "INACTIVE",
-            "www.quarterbean.com": "INACTIVE"
-        },
-        "1572043650": {
-            "is-tracking-pixel-api-prod.appspot.com": "INACTIVE",
-            "www.clearcabbage.com": "INACTIVE",
-            "www.partplanes.com": "INACTIVE",
-            "www.teenyvolcano.com": "INACTIVE"
-        },
-        "1572043651": {
-            "www.absurdwater.com": "INACTIVE",
-            "www.fearfowl.com": "INACTIVE",
-            "www.nostalgicknot.com": "INACTIVE"
-        },
-        "1572043652": {
-            "www.battlehope.com": "INACTIVE",
-            "www.quaintcan.com": "INACTIVE",
-            "www.scientificshirt.com": "INACTIVE",
-            "www.spirebaboon.com": "INACTIVE"
-        },
-        "1572043658": {
-            "www.complextoad.com": "INACTIVE",
-            "www.elderlytown.com": "INACTIVE",
-            "www.memorycobweb.com": "INACTIVE"
-        },
-        "1572043664": {
-            "www.quicksandear.com": "INACTIVE",
-            "www.volantix.com": "INACTIVE"
-        },
-        "1572043665": {
-            "stats.appsflyer.com": "INACTIVE",
-            "teschenite.com": "INACTIVE",
-            "www.discreetfield.com": "INACTIVE"
-        },
-        "1572043666": {
-            "www.guardedschool.com": "INACTIVE",
-            "www.inquisitiveinvention.com": "INACTIVE",
-            "www.jikenick12and67.com": "INACTIVE"
-        },
-        "1572043667": {
-            "www.fadedprofit.com": "INACTIVE",
-            "www.prefixpatriot.com": "INACTIVE"
-        },
-        "1572043668": {
-            "www.dancemistake.com": "INACTIVE",
-            "www.ringsrecord.com": "INACTIVE"
-        },
-        "1572043669": {
-            "www.blushingboundary.com": "INACTIVE",
-            "www.broadboundary.com": "INACTIVE",
-            "www.drabsize.com": "INACTIVE"
-        },
-        "1572043670": {
-            "www.bustlinganimal.com": "INACTIVE",
-            "www.floweryoperation.com": "INACTIVE",
-            "www.slaysweater.com": "INACTIVE",
-            "www.whiskyqueue.com": "INACTIVE"
-        },
-        "1572043671": {
-            "www.aboriginalboats.com": "INACTIVE",
-            "www.boredcrown.com": "INACTIVE",
-            "www.futuristicfear.com": "INACTIVE"
-        },
-        "1572043672": {
-            "www.broadcastbed.com": "INACTIVE",
-            "www.elephantqueue.com": "INACTIVE",
-            "www.nondescriptstocking.com": "INACTIVE",
-            "www.swimslope.com": "INACTIVE"
-        },
-        "1572043673": {
-            "www.copyrightaccesscontrols.com": "INACTIVE"
-        },
-        "1572043674": {
-            "www.roosterfirework.com": "INACTIVE"
-        },
-        "1572043675": {
-            "provideplant.com": "INACTIVE",
-            "www.innocentwax.com": "INACTIVE"
-        },
-        "1572043686": {
-            "analytics.plex.tv": "INACTIVE"
-        },
-        "1572043687": {
-            "www.sdad.guru": "INACTIVE"
-        },
-        "1572043706": {
-            "guitarbelieve.com": "INACTIVE",
-            "www.robustbelieve.com": "INACTIVE"
-        },
-        "1572043708": {
-            "www.delightfulhour.com": "INACTIVE"
-        },
-        "1572043709": {
-            "www.gondolagnome.com": "INACTIVE",
-            "www.mixedreading.com": "INACTIVE",
-            "www.penspade.com": "INACTIVE",
+            "www.commonswing.com": "INACTIVE",
+            "www.handyfield.com": "INACTIVE"
+        },
+        "1572519712": {
+            "api-lytics.macpaw.com": "INACTIVE",
+            "deliver.oztam.com.au": "INACTIVE",
+            "www.innocentwax.com": "INACTIVE",
             "www.rainyhand.com": "INACTIVE"
         },
-        "1572043710": {
-            "commandwalk.com": "INACTIVE",
-            "www.battlebalance.com": "INACTIVE",
-            "www.copperchickens.com": "INACTIVE",
-            "www.sicksmash.com": "INACTIVE",
-            "www.usedexample.com": "INACTIVE"
+        "1572519713": {
+            "www.battlehope.com": "INACTIVE",
+            "www.bestboundary.com": "INACTIVE",
+            "www.sparklingnumber.com": "INACTIVE"
         },
-        "1572043711": {
-            "www.snakesshop.com": "INACTIVE"
-        },
-        "1572043715": {
-            "www.cautiouscredit.com": "INACTIVE"
-        },
-        "1572043716": {
-            "www.scarcestream.com": "INACTIVE"
-        },
-        "1572043717": {
-            "www.futuristicfifth.com": "INACTIVE"
-        },
-        "1572043718": {
-            "www.alikearm.com": "INACTIVE",
-            "www.dk4ywix.com": "INACTIVE",
-            "www.icebergindigo.com": "INACTIVE"
-        },
-        "1572043719": {
-            "www.desertedrat.com": "INACTIVE",
-            "www.h78xb.pw": "INACTIVE",
-            "www.readymoon.com": "INACTIVE"
-        },
-        "1572043725": {
-            "www.calculatingcircle.com": "INACTIVE",
-            "www.handyfield.com": "INACTIVE",
-            "www.inviterabbits.com": "INACTIVE",
-            "www.paddleangle.com": "INACTIVE"
-        },
-        "1572043726": {
-            "hb.nexage.com": "INACTIVE",
-            "www.cannontwin.com": "INACTIVE",
-            "www.coinhiveproxy.com": "INACTIVE",
-            "www.detailedgovernment.com": "INACTIVE",
-            "www.gossipmiser.com": "INACTIVE"
-        },
-        "1572043727": {
-            "www.gorgeousground.com": "INACTIVE"
-        },
-        "1572043732": {
-            "www.aboardlevel.com": "INACTIVE",
-            "www.crabbychin.com": "INACTIVE",
-            "www.futuristicapparatus.com": "INACTIVE",
-            "www.swordgoose.com": "INACTIVE"
-        },
-        "1572043733": {
-            "sofia.trustx.org": "INACTIVE",
-            "www.giftedglue.com": "INACTIVE",
-            "www.ta"1572043738": {
-            "fd-fp3.wg1.b.yahoo.com": "INACTIVE",
-            "www.coordinatedcub.com": "INACTIVE",
-            "www.enthusiasticdad.com": "INACTIVE",
-            "www.peacepowder.com": "INACTIVE",
-            "www.separatesilver.com": "INACTIVE"
-        },
-        "1572043743": {
-            "www.ariseboundary.com": "INACTIVE",
-            "www.resonantbrush.com": "INACTIVE"
-        },
-        "1572043744": {
-            "www.commonswing.com": "INACTIVE"
-        },
-        "1572043749": {
-            "www.docksalmon.com": "INACTIVE",
-            "www.hystericalhelp.com": "INACTIVE"
-        },
-        "1572043750": {
-            "www.profitrumour.com": "INACTIVE",
-            "www.tranquilside.com": "INACTIVE"
-        },
-        "1572043752": {
-            "www.chinsnakes.com": "INACTIVE",
-            "www.docj27ko03fnu.cloudfront.net": "INACTIVE",
-            "www.typicalteeth.com": "INACTIVE"
-        },
-        "1572043753": {
-            "www.chickensstation.com": "INACTIVE",
-            "www.eliminateeffect.com": "INACTIVE",
-            "www.erraticreaction.com": "INACTIVE",
-            "www.waggishpig.com": "INACTIVE"
-        },
-        "1572043774": {
-            "www.boredborder.com": "INACTIVE"
-        },
-        "1572043788": {
-            "www.erraticreaction.com": "INACTIVE",
-            "www.snakesort.com": "INACTIVE"
-        },
-        "1572043795": {
-            "www.spottednoise.com": "INACTIVE"
-        },
-        "1572043797": {
-            "www.farmergoldfish.com": "INACTIVE",
-            "www.knottysticks.com": "INACTIVE"
-        },
-        "1572043803": {
-            "accounts.nvgs.nvidia.com": "INACTIVE"
-        },
-        "1572043808": {
-            "www.wreckvolcano.com": "INACTIVE"
-        },
-        "1572043809": {
-            "www.vanfireworks.com": "INACTIVE"
-        },
-        "1572043815": {
-            "www.volantix.com": "INACTIVE"
-        },
-        "1572043825": {
-            "spectacularsnail.com": "INACTIVE"
-        },
-        "1572043860": {
-            "www.usedexample.com": "INACTIVE"
-        },
-        "1572043868": {
-            "www.roosterfirework.com": "INACTIVE"
-        },
-        "1572043871": {
-            "www.massivemark.com": "INACTIVE",
-            "www.uaswitcher.org": "INACTIVE"
-        },
-        "1572217940": {
-            "www.receptivereaction.com": "INACTIVE",
-            "www.thinkabletrick.com": "INACTIVE"
-        },
-        "1572217941": {
-            "www.ar1nvz5.com": "INACTIVE",
-            "www.experienceeggs.com": "INACTIVE",
-            "www.realizerecess.com": "INACTIVE",
-            "www.ruthlessmilk.com": "INACTIVE"
-        },
-        "1572217942": {
-            "www.endurableshop.com": "INACTIVE",
-            "www.handyfield.com": "INACTIVE",
-            "www.zbwp6ghm.com": "INACTIVE"
-        },
-        "1572217943": {
-            "www.calculatingcircle.com": "INACTIVE",
-            "www.shakesuggestion.com": "INACTIVE",
-            "www.whiskyqueue.com": "INACTIVE"
-        },
-        "1572217944": {
-            "www.dashingdirt.com": "INACTIVE",
-            "www.railwayrainstorm.com": "INACTIVE"
-        },
-        "1572217945": {
-            "www.typicalteeth.com": "INACTIVE"
-        },
-        "1572217946": {
-            "www.fourarithmetic.com": "INACTIVE",
-            "www.insnw.net": "INACTIVE"
-        },
-        "1572217947": {
-            "www.acridtwist.com": "INACTIVE",
-            "www.caringzinc.com": "INACTIVE",
-            "www.memorizeneck.com": "INACTIVE",
-            "www.straightnest.com": "INACTIVE"
-        },
-        "1572217948": {
-            "www.carriagecan.com": "INACTIVE",
-            "www.delegatediscussion.com": "INACTIVE",
-            "www.docj27ko03fnu.cloudfront.net": "INACTIVE",
-            "www.impulsehands.com": "INACTIVE",
-            "www.referdriving.com": "INACTIVE",
-            "www.youngmarble.com": "INACTIVE"
-        },
-        "1572217949": {
-            "www.balancebreath.com": "INACTIVE",
-            "www.structuresofa.com": "INACTIVE",
-            "www.subsequentswim.com": "INACTIVE"
-        },
-        "1572217950": {
-            "www.cumbersomecloud.com": "INACTIVE",
-            "www.encourageidea.com": "INACTIVE"
-        },
-        "1572217951": {
-            "www.jewelcheese.com": "INACTIVE",
-            "www.shockingship.com": "INACTIVE"
-        },
-        "1572217952": {
-            "www.cannonjudo.com": "INACTIVE",
-            "www.drivingdirt.com": "INACTIVE"
-        },
-        "1572217953": {
-            "www.erraticreaction.com": "INACTIVE",
-            "www.resolutekey.com": "INACTIVE"
-        },
-        "1572217954": {
-            "www.crabbychin.com": "INACTIVE"
-        },
-        "1572217955": {
-            "www.clearcabbage.com": "INACTIVE",
-            "www.divergentoffer.com": "INACTIVE",
-            "www.gondolagnome.com": "INACTIVE",
-            "www.massivemark.com": "INACTIVE"
-        },
-        "1572217961": {
-            "www.teenyvolcano.com": "INACTIVE"
-        },
-        "1572217962": {
-            "www.draconiancurve.com": "INACTIVE",
-            "www.sincerespy.com": "INACTIVE"
-        },
-        "1572217963": {
-            "www.receptiveink.com": "INACTIVE"
-        },
-        "1572217964": {
-            "www.giftedglue.com": "INACTIVE"
-        },
-        "1572217977": {
-            "www.captainbicycle.com": "INACTIVE",
-            "www.culturedcrayon.com": "INACTIVE"
-        },
-        "1572217978": {
-            "www.efficaciouscactus.com": "INACTIVE",
-            "www.fadedprofit.com": "INACTIVE",
-            "www.finalizeforce.com": "INACTIVE"
-        },
-        "1572217979": {
-            "www.defectivesun.com": "INACTIVE",
-            "www.giddycoat.com": "INACTIVE",
-            "www.voicevegetable.com": "INACTIVE"
-        },
-        "1572217980": {
-            "www.arithmeticadjustment.com": "INACTIVE",
-            "www.headyhook.com": "INACTIVE",
-            "www.roughroll.com": "INACTIVE"
-        },
-        "1572217981": {
-            "www.informengine.com": "INACTIVE",
-            "www.reflectivereward.com": "INACTIVE",
-            "www.untidyquestion.com": "INACTIVE"
-        },
-        "1572217982": {
-            "static.zotabox.com": "INACTIVE",
-            "www.knifeoctopus.com": "INACTIVE"
-        },
-        "1572217987": {
-            "www.talentedsteel.com": "INACTIVE"
-        },
-        "1572217988": {
+        "1572519714": {
             "www.channelcamp.com": "INACTIVE",
-            "www.lumpyleaf.com": "INACTIVE",
-            "www.stripedburst.com": "INACTIVE"
-        },
-        "1572217989": {
-            "ads.samsung.com": "INACTIVE",
-            "www.elderlyinsect.com": "INACTIVE",
-            "www.stormysponge.com": "INACTIVE"
-        },
-        "1572217990": {
-            "www.debonairway.com": "INACTIVE",
-            "www.delightfulhour.com": "INACTIVE",
-            "www.hystericalhelp.com": "INACTIVE"
-        },
-        "1572217992": {
-            "www.desertedrat.com": "INACTIVE",
-            "www.quacksquirrel.com": "INACTIVE"
-        },
-        "1572217993": {
-            "www.scarcestream.com": "INACTIVE"
-        },
-        "1572217994": {
-            "www.highfalutinroom.com": "INACTIVE",
-            "www.hilariouszinc.com": "INACTIVE",
-            "www.markedcrayon.com": "INACTIVE",
-            "www.sleepcartoon.com": "INACTIVE"
-        },
-        "1572217995": {
-            "www.businessbells.com": "INACTIVE",
-            "www.noiselessplough.com": "INACTIVE",
-            "www.sharppatch.com": "INACTIVE",
-            "www.sombersea.com": "INACTIVE"
-        },
-        "1572217996": {
-            "www.coinhiveproxy.com": "INACTIVE",
-            "www.niftyhospital.com": "INACTIVE",
-            "www.slaysweater.com": "INACTIVE",
-            "www.spirebaboon.com": "INACTIVE",
-            "www.spuriousbase.com": "INACTIVE"
-        },
-        "1572217997": {
-            "www.bestboundary.com": "INACTIVE"
-        },
-        "1572218001": {
-            "www.2znp09oa.com": "INACTIVE",
-            "www.volantix.com": "INACTIVE"
-        },
-        "1572218002": {
-            "www.abruptroad.com": "INACTIVE",
-            "www.robustbelieve.com": "INACTIVE"
-        },
-        "1572218007": {: "INACTIVE"
-        },
-        "1572218007": {
-            "www.functionalcrown.com": "INACTIVE"
-        },
-        "1572218008": {
-            "www.elasticchange.com": "INACTIVE"
-        },
-        "1572218009": {
-            "www.eliminateeffect.com": "INACTIVE",
-            "www.invisioncloudstats.com": "INACTIVE",
-            "www.statuesquebrush.com": "INACTIVE"
-        },
-        "1572218010": {
-            "www.uaswitcher.org": "INACTIVE"
-        },
-        "1572218011": {
-            "www.hollowshake.com": "INACTIVE",
-            "www.selfishsea.com": "INACTIVE",
-            "www.tdzvm.pw": "INACTIVE",
-            "www.threechurch.com": "INACTIVE"
-        },
-        "1572218016": {
-            "www.cutecushion.com": "INACTIVE",
-            "www.swimslope.com": "INACTIVE"
-        },
-        "1572218017": {
-            "www.butterburst.com": "INACTIVE"
-        },
-        "1572218022": {
-            "chinchickens.com": "INACTIVE",
-            "e5019.e2.akamaiedge.net": "INACTIVE",
-            "www.enviousthread.com": "INACTIVE",
-            "www.futuristicapparatus.com": "INACTIVE",
-            "www.readgoldfish.com": "INACTIVE"
-        },
-        "1572218023": {
-            "www.bucketbean.com": "INACTIVE",
-            "www.jamexistence.com": "INACTIVE",
-            "www.sincerebuffalo.com": "INACTIVE"
-        },
-        "1572218024": {
-            "www.boilingbeetle.com": "INACTIVE",
-            "www.giftedthumb.com": "INACTIVE",
-            "yt.moatads.com": "INACTIVE"
-        },
-        "1572218025": {
-            "sneaklevel.com": "INACTIVE",
-            "www.peacepowder.com": "INACTIVE",
-            "www.scientificshirt.com": "INACTIVE",
-            "www.sneaklevel.com": "INACTIVE"
-        },
-        "1572218026": {
-            "www.detectdinner.com": "INACTIVE"
-        },
-        "1572218027": {
-            "www.beamincrease.com": "INACTIVE",
-            "www.innocentwax.com": "INACTIVE"
-        },
-        "1572218028": {
-            "www.inventionpassenger.com": "INACTIVE"
-        },
-        "1572218030": {
-            "www.elephantqueue.com": "INACTIVE",
-            "www.parchedangle.com": "INACTIVE",
-            "www.prefixpatriot.com": "INACTIVE",
-            "www.sneakystamp.com": "INACTIVE"
-        },
-        "1572218031": {
-            "www.correctchaos.com": "INACTIVE"
-        },
-        "1572218036": {
-            "www.gammamaximum.com": "INACTIVE",
-            "www.sootheside.com": "INACTIVE"
-        },
-        "1572218037": {
-            "www.stormyachiever.com": "INACTIVE"
-        },
-        "1572218038": {
-            "www.ivykiosk.com": "INACTIVE",
-            "www.richstring.com": "INACTIVE"
-        },
-        "1572218039": {
-            "www.futuristicfairies.com": "INACTIVE",
-            "www.gloriouscracker.com": "INACTIVE"
-        },
-        "1572218041": {
-            "www.insnw.ne": "INACTIVE"
-        },
-        "1572218042": {
-            "www.decoycreation.com": "INACTIVE",
-            "www.futuristicfifth.com": "INACTIVE",
-            "www.gracefulsock.com": "INACTIVE",
-            "www.i9w8p.pw": "INACTIVE",
-            "www.omniscientfeeling.com": "INACTIVE",
-            "www.parsimoniouspolice.com": "INACTIVE"
-        },
-        "1572218043": {
-            "www.standtrouble.com": "INACTIVE"
-        },
-        "1572218047": {
-            "www.leaplunchroom.com": "INACTIVE"
-        },
-        "1572218048": {
-            "www.ambitiousagreement.com": "INACTIVE",
-            "www.copycarpenter.com": "INACTIVE",
-            "www.humdrumhat.com": "INACTIVE",
-            "www.zealousfield.com": "INACTIVE"
-        },
-        "1572218049": {
-            "www.rulerabbit.com": "INACTIVE"
-        },
-        "1572218050": {
-            "www.actuallysheep.com": "INACTIVE",
-            "www.messagenovice.com": "INACTIVE",
-            "www.shockingswing.com": "INACTIVE"
-        },
-        "1572218051": {
-            "www.consistpotato.com": "INACTIVE",
-            "www.thingsafterthought.com": "INACTIVE"
-        },
-        "1572218052": {
-            "services.gfe.nvidia.com": "INACTIVE",
-            "www.lp3tdqle.com": "INACTIVE",
-            "www.maniacalappliance.com": "INACTIVE",
-            "www.perceivequarter.com": "INACTIVE"
-        },
-        "1572218058": {
-            "www.blushingboundary.com": "INACTIVE",
-            "www.boredcrown.com": "INACTIVE"
-        },
-        "1572218059": {
-            "www.dashingsweater.com": "INACTIVE"
-        },
-        "1572218060": {
-            "www.d35fgcharv2shj.cloudfront.net": "INACTIVE",
-            "www.womanear.com": "INACTIVE"
-        },
-        "1572218065": {
-            "www.medusasailor.com": "INACTIVE"
-        },
-        "1572218066": {
-            "www.dq95d35.com": "INACTIVE",
-            "www.shakesea.com": "INACTIVE",
-            "www.spookyslope.com": "INACTIVE"
-        },
-        "1572218068": {
-            "fd-fp3.wg1.b.yahoo.com": "INACTIVE"
-        },
-        "1572218069": {
-            "www.erraticreaction.com": "INACTIVE",
-            "www.limpingline.com": "INACTIVE"
-        },
-        "1572218076": {
-            "metric.kleientertainment.com": "INACTIVE"
-        },
-        "1572218077": {
-            "www.tidytrail.com": "INACTIVE"
-        },
-        "1572218080": {
-            "www.h78xb.pw": "INACTIVE"
-        },
-        "1572218087": {
-            "www.spurioussteam.com": "INACTIVE"
-        },
-        "1572218092": {
-            "accounts.nvgs.nvidia.com": "INACTIVE"
-        },
-        "1572218099": {
-            "www.thinkablerice.com": "INACTIVE"
-        },
-        "1572218100": {
-            "www.terribleturkey.com": "INACTIVE"
-        },
-        "1572218101": {
-            "www.hurtteeth.com": "INACTIVE"
-        },
-        "1572218112": {
-            "consciouscabbage.com": "INACTIVE",
-            "www.dispensablestranger.com": "INACTIVE"
-        },
-        "1572218113": {
-            "api211.thefilter.com": "INACTIVE",
-            "www.spillvacation.com": "INACTIVE"
-        },
-        "1572218114": {
-            "simplisticnose.com": "INACTIVE"
-        },
-        "1572218115": {
-            "rules.noadblock.org": "INACTIVE"
-        },
-        "1572218116": {
-            "g.ezoic.net": "INACTIVE"
-        },
-        "1572218122": {
-            "www.slimyscarf.com": "INACTIVE"
-        },
-        "1572218125": {
-            "www.roosterfirework.com": "INACTIVE"
-        },
-        "1572218135": {
-            "content.synapsys.us": "INACTIVE",
-            "www.frightenedpotato.com": "INACTIVE"
-        },
-        "1572388868": {
-            "abandonedclover.com": "INACTIVE",
-            "sinceresofa.com": "INACTIVE",
-            "www.futuristicfairies.com": "INACTIVE",
-            "www.sinceresofa.com": "INACTIVE"
-        },
-        "1572388870": {
-            "www.rebelsubway.com": "INACTIVE",
-            "www.steadfastsound.com": "INACTIVE"
-        },
-        "1572388871": {
-            "ipm-provider.ff.avast.com": "INACTIVE",
-            "www.raresummer.com": "INACTIVE"
-        },
-        "1572388872": {
-            "www.breakfastboat.com": "INACTIVE",
-            "www.economicpizzas.com": "INACTIVE",
-            "www.futuristicfifth.com": "INACTIVE"
-        },
-        "1572388873": {
-            "www.cubchannel.com": "INACTIVE",
-            "www.d3hmp0045zy3cs.cloudfront.net": "INACTIVE",
-            "www.sorethunder.com": "INACTIVE"
-        },
-        "1572388874": {
-            "www.railwayrainstorm.com": "INACTIVE"
-        },
-        "1572388875": {
-            "www.i9w8p.pw": "INACTIVE"
-        },
-        "1572388880": {
-            "www.dripappliance.com": "INACTIVE"
-        },
-        "1572388881": {
-            "www.possessivebucket.com": "INACTIVE"
-        },
-        "1572388885": {
-            "www.symbolizebeast.com": "INACTIVE",
-            "www.volantix.com": "INACTIVE"
-        },
-        "1572388886": {
-            "dolphindispute.com": "INACTIVE",
-            "www.tangibleteam.com": "INACTIVE"
-        },
-        "1572388888": {
-            "www.critictruck.com": "INACTIVE"
-        },
-        "1572388889": {
-            "www.partplanes.com": "INACTIVE"
-        },
-        "1572388890": {
-            "www.funnyairplane.com": "INACTIVE",
-            "www.rainystretch.com": "INACTIVE"
-        },
-        "1572388891": {
-            "www.j93557g.com": "INACTIVE",
-            "www.receptiveink.com": "INACTIVE"
-        },
-        "1572388892": {
-            "www.businessbells.com": "INACTIVE",
             "www.defectivesun.com": "INACTIVE",
             "www.encouragingwilderness.com": "INACTIVE",
-            "www.memorizeneck.com": "INACTIVE"
+            "www.motionlessbag.com": "INACTIVE",
+            "www.spirebaboon.com": "INACTIVE",
+            "www.suddensnake.com": "INACTIVE"
         },
-        "1572388893": {
-            "www.wellgroomedbat.com": "INACTIVE"
+        "1572519715": {
+            "aloseks.org": "INACTIVE",
+            "www.ak0gsh40.com": "INACTIVE",
+            "www.ariseboundary.com": "INACTIVE",
+            "www.insnw.ne": "INACTIVE",
+            "www.mowfruit.com": "INACTIVE",
+            "www.resonantbrush.com": "INACTIVE",
+            "www.untidyrice.com": "INACTIVE"
         },
-        "1572388894": {
-            "www.beastbeef.com": "INACTIVE",
-            "www.frailoffer.com": "INACTIVE",
-            "www.stiffstem.com": "INACTIVE"
+        "1572519717": {
+            "sdk.appsflyer.com": "INACTIVE",
+            "www.exclusivebrass.com": "INACTIVE",
+            "www.quizzicalzephyr.com": "INACTIVE"
         },
-        "1572388895": {
-            "www.cuteturkey.com": "INACTIVE",
-            "www.glossysense.com": "INACTIVE",
-            "www.purchasesuggestion.com": "INACTIVE"
+        "1572519718": {
+            "euw.adserver.snapads.com": "INACTIVE",
+            "squeamishscarecrow.com": "INACTIVE",
+            "www.bulbbait.com": "INACTIVE",
+            "www.capablecows.com": "INACTIVE",
+            "www.photographpan.com": "INACTIVE",
+            "www.resolutekey.com": "INACTIVE",
+            "www.squeamishscarecrow.com": "INACTIVE",
+            "www.thingsafterthought.com": "INACTIVE",
+            "www.unequalbrake.com": "INACTIVE"
         },
-        "1572388896": {
-            "www.bawdybeast.com": "INACTIVE",
-            "www.boredborder.com": "INACTIVE",
-            "www.mountaintail.com": "INACTIVE"
-        },
-        "1572388897": {
-            "www.puffypurpose.com": "INACTIVE",
-            "www.spookyslope.com": "INACTIVE"
-        },
-        "1572388898": {
-            "www-googletagmanager.l.google.com": "INACTIVE",
-            "www.informengine.com": "INACTIVE",
-            "www.instrumentsponge.com": "INACTIVE",
-            "www.robustbelieve.com": "INACTIVE",
-            "www.systemizecoat.com": "INACTIVE"
-        },
-        "1572388904": {
-            "www.clearcomb.com": "INACTIVE",
-            "www.fourfork.com": "INACTIVE",
-            "www.puffyloss.com": "INACTIVE"
-        },
-        "1572388906": {
-            "www.cloisteredhydrant.com": "INACTIVE",
-            "www.facilitategrandfather.com": "INACTIVE"
-        },
-        "1572388911": {
-            "www.insnw.net": "INACTIVE"
-        },
-        "1572388912": {
-            "www.truckstomatoes.com": "INACTIVE"
-        },
-        "1572388917": {
-            "www.floweryoperation.com": "INACTIVE"
-        },
-        "1572388918": {
-            "www.decidedrum.com": "INACTIVE",
-            "www.divergentoffer.com": "INACTIVE"
-        },
-        "1572388919": {
-            "www.texturetrick.com": "INACTIVE",
-            "www.tremendoustreatment.com": "INACTIVE"
-        },
-        "1572388920": {
-            "www.guardedschool.com": "INACTIVE",
-            "www.heavyplayground.com": "INACTIVE"
-        },
-        "1572388921": {
-            "www.4jnzhl0d0.com": "INACTIVE",
-            "www.handleteeth.com": "INACTIVE",
-            "www.petiteumbrella.com": "INACTIVE"
-        },
-        "1572388922": {
-            "www.battlehope.com": "INACTIVE",
-            "www.k54nw.pw": "INACTIVE"
-        },
-        "1572388927": {
-            "www.faultycanvas.com": "INACTIVE",
-            "www.fearfowl.com": "INACTIVE",
-            "www.gondolagnome.com": "INACTIVE"
-        },
-        "1572388929": {
-            "www.bewilderedblade.com": "INACTIVE"
-        },
-        "1572388930": {
-            "www.5mcwl.pw": "INACTIVE",
-            "www.archswimming.com": "INACTIVE"
-        },
-        "1572388931": {
-            "www.d35fgcharv2shj.cloudfront.net": "INACTIVE",
-            "www.frightenedpotato.com": "INACTIVE"
-        },
-        "1572388933": {
-            "www.structurerod.com": "INACTIVE"
-        },
-        "1572388934": {
-            "www.greasysquare.com": "INACTIVE"
-        },
-        "1572388940": {
-            "www.evanescentedge.com": "INACTIVE",
-            "www.lizardslaugh.com": "INACTIVE",
-            "www.whirlwealth.com": "INACTIVE"
-        },
-        "1572388941": {
-            "www.unarmedindustry.com": "INACTIVE"
-        },
-        "1572388942": {
-            "www.discreetfield.com": "INACTIVE",
+        "1572519719": {
+            "www.blushingbeast.com": "INACTIVE",
             "www.sdad.guru": "INACTIVE",
-            "www.stakingscrew.com": "INACTIVE"
+            "www.worrybutter.com": "INACTIVE"
         },
-        "1572388943": {
-            "www.absurdwater.com": "INACTIVE",
-            "www.massivemark.com": "INACTIVE"
+        "1572519720": {
+            "www.afraidlanguage.com": "INACTIVE",
+            "www.blushingboundary.com": "INACTIVE",
+            "www.selectionship.com": "INACTIVE"
         },
-        "1572388944": {
-            "www.spuriousbase.com": "INACTIVE",
-            "www.subsequentswim.com": "INACTIVE"
+        "1572519721": {
+            "calmfoot.com": "INACTIVE",
+            "e5019.e2.akamaiedge.net": "INACTIVE",
+            "www.broadboundary.com": "INACTIVE",
+            "www.calmfoot.com": "INACTIVE",
+            "www.coordinatedbedroom.com": "INACTIVE",
+            "www.elephantqueue.com": "INACTIVE"
         },
-        "1572388945": {
-            "www.materialisticfan.com": "INACTIVE",
-            "www.quarterbean.com": "INACTIVE"
+        "1572519726": {
+            "metric.kleientertainment.com": "INACTIVE"
         },
-        "1572388946": {
-            "www.maniacalappliance.com": "INACTIVE",
-            "www.shockinggrass.com": "INACTIVE"
+        "1572519727": {
+            "scarcestream.com": "INACTIVE",
+            "telemetry.gfe.nvidia.com": "INACTIVE",
+            "www.symbolizebeast.com": "INACTIVE"
         },
-        "1572388947": {
-            "www.dashingdirt.com": "INACTIVE",
-            "www.importedincrease.com": "INACTIVE",
-            "www.spottysense.com": "INACTIVE"
+        "1572519728": {
+            "www.acridtwist.com": "INACTIVE",
+            "www.boringcoat.com": "INACTIVE",
+            "www.dispensablestranger.com": "INACTIVE",
+            "www.impulsehands.com": "INACTIVE",
+            "www.inventionpassenger.com": "INACTIVE",
+            "www.laughcloth.com": "INACTIVE",
+            "www.shakesuggestion.com": "INACTIVE",
+            "www.spidersboats.com": "INACTIVE"
         },
-        "1572388948": {
-            "www.languagelake.com": "INACTIVE",
-            "www.livelumber.com": "INACTIVE",
-            "www.tdzvm.pw": "INACTIVE"
+        "1572519729": {
+            "www.dragzebra.com": "INACTIVE",
+            "www.humdrumhat.com": "INACTIVE",
+            "www.shakesea.com": "INACTIVE",
+            "www.snakesort.com": "INACTIVE"
         },
-        "1572388955": {
-            "www.boredcrown.com": "INACTIVE"
+        "1572519735": {
+            "provideplant.com": "INACTIVE",
+            "ssor.tribdss.com": "INACTIVE",
+            "www.broadcastbed.com": "INACTIVE",
+            "www.rapidkittens.com": "INACTIVE",
+            "www.succeedscene.com": "INACTIVE"
         },
-        "1572388956": {
-            "www.sincerespy.com": "INACTIVE"
+        "1572519736": {
+            "www.economicpizzas.com": "INACTIVE",
+            "www.sorethunder.com": "INACTIVE",
+            "www.stormyachiever.com": "INACTIVE",
+            "www.tempttalk.com": "INACTIVE"
         },
-        "1572388970": {
-            "www.captainbicycle.com": "INACTIVE"
-        },
-        "1572388984": {
-            "www.invitesugar.com": "INACTIVE",
-            "www.jadeitite.com": "INACTIVE"
-        },
-        "1572388985": {
-            "www.correctchaos.com": "INACTIVE",
-            "www.debonairway.com": "INACTIVE",
-            "www.nondescriptstocking.com": "INACTIVE"
-        },
-        "1572388989": {
-            "www.caringzinc.com": "INACTIVE"
-        },
-        "1572388990": {
-            "www.earthquakescarf.com": "INACTIVE",
-            "www.straightnest.com": "INACTIVE"
-        },
-        "1572388991": {
-            "www.futuristicfear.com": "INACTIVE",
+        "1572519737": {
+            "www.differentdesk.com": "INACTIVE",
+            "www.perpetualpail.com": "INACTIVE",
             "www.smilingwaves.com": "INACTIVE"
         },
-        "1572388993": {
-            "www.dashingsweater.com": "INACTIVE",
-            "www.richstring.com": "INACTIVE",
-            "www.roosterfirework.com": "INACTIVE"
+        "1572519751": {
+            "tracedesire.com": "INACTIVE"
         },
-        "1572388994": {
-            "www.chunkycactus.com": "INACTIVE",
-            "www.culturedcrayon.com": "INACTIVE"
+        "1572519765": {
+            "www.2znp09oa.com": "INACTIVE",
+            "www.snakesshop.com": "INACTIVE"
         },
-        "1572388995": {
-            "www.abruptroad.com": "INACTIVE",
-            "www.arithmeticadjustment.com": "INACTIVE",
-            "www.paddleangle.com": "INACTIVE",
-            "www.steadfastsystem.com": "INACTIVE"
-        },
-        "1572388996": {
-            "www.balloontexture.com": "INACTIVE"
-        },
-        "1572389002": {
-            "www.ar1nvz5.com": "INACTIVE",
-            "www.drivingdirt.com": "INACTIVE"
-        },
-        "1572389003": {
-            "www.ambitiousagreement.com": "INACTIVE",
-            "www.receptivereaction.com": "INACTIVE"
-        },
-        "1572389004": {
-            "www.elderlyscissors.com": "INACTIVE"
-        },
-        "1572389005": {
+        "1572519770": {
+            "spottysense.com": "INACTIVE",
+            "www.colorfulafterthought.com": "INACTIVE",
+            "www.parsimoniouspolice.com": "INACTIVE",
             "www.spendpest.com": "INACTIVE"
         },
-        "1572389006": {
-            "www.carscannon.com": "INACTIVE"
+        "1572519771": {
+            "www.chewcoat.com": "INACTIVE",
+            "www.stickssheep.com": "INACTIVE"
         },
-        "1572389007": {
-            "scarcestream.com": "INACTIVE"
-        },
-        "1572389010": {
-            "www.ivykiosk.com": "INACTIVE"
-        },
-        "1572389011": {
-            "www.roosterfirework.com": "INACTIVE"
-        },
-        "1572389012": {
-            "www.parchedangle.com": "INACTIVE"
-        },
-        "1572389014": {
-            "www.shelterstraw.com": "INACTIVE"
-        },
-        "1572389030": {
-            "stats.appsflyer.com": "INACTIVE",
-            "www.referdriving.com": "INACTIVE"
-        },
-        "1572389031": {
-            "www.gossipmiser.com": "INACTIVE"
-        },
-        "1572389033": {
-            "www.uaswitcher.org": "INACTIVE"
-        },
-        "1572389039": {
+        "1572519775": {
             "accounts.nvgs.nvidia.com": "INACTIVE"
         },
-        "1572389054": {
-            "kvinit-prod.api.kochava.com": "INACTIVE"
+        "1572519776": {
+            "www.cautiouscredit.com": "INACTIVE",
+            "www.elderlyscissors.com": "INACTIVE",
+            "www.spuriousbase.com": "INACTIVE",
+            "www.stripedburst.com": "INACTIVE"
         },
-        "1572389057": {
-            "www.spillvacation.com": "INACTIVE"
+        "1572519781": {
+            "familiarfloor.com": "INACTIVE",
+            "static-assets-queue-it.net": "INACTIVE",
+            "www.familiarfloor.com": "INACTIVE",
+            "www.messagenovice.com": "INACTIVE",
+            "www.volantix.com": "INACTIVE",
+            "www.zlp6s.pw": "INACTIVE"
         },
-        "1572389063": {
+        "1572519782": {
+            "rulerabbit.com": "INACTIVE",
+            "www.scrubswim.com": "INACTIVE",
+            "www.static-assets-queue-it.net": "INACTIVE"
+        },
+        "1572519787": {
+            "gfe.geforce.com": "INACTIVE",
+            "services.gfe.nvidia.com": "INACTIVE",
+            "www.beamincrease.com": "INACTIVE",
+            "www.efficaciouscactus.com": "INACTIVE",
+            "www.floodprincipal.com": "INACTIVE"
+        },
+        "1572519788": {
+            "www.receptiveink.com": "INACTIVE"
+        },
+        "1572519789": {
+            "www.decoycreation.com": "INACTIVE",
+            "www.elasticchange.com": "INACTIVE",
+            "www.gracefulsock.com": "INACTIVE",
+            "www.pizzasnut.com": "INACTIVE",
+            "www.youngmarble.com": "INACTIVE"
+        },
+        "1572519794": {
+            "www.erraticreaction.com": "INACTIVE",
+            "www.referdriving.com": "INACTIVE",
+            "www.shallowschool.com": "INACTIVE",
             "www.volantix.com": "INACTIVE"
         },
-        "1572389079": {
-            "www.captainbicycle.com": "INACTIVE"
+        "1572519795": {
+            "www.fourarithmetic.com": "INACTIVE",
+            "www.sinceresofa.com": "INACTIVE"
         },
-        "1572389081": {
-            "www.shakesea.com": "INACTIVE"
+        "1572519796": {
+            "www.illustriousoatmeal.com": "INACTIVE",
+            "www.sillyscrew.com": "INACTIVE",
+            "www.slaysweater.com": "INACTIVE"
         },
-        "1572389085": {
-            "www.rainyhand.com": "INACTIVE",
-            "www.shakytaste.com": "INACTIVE"
+        "1572519797": {
+            "www.completecabbage.com": "INACTIVE",
+            "www.drydrum.com": "INACTIVE",
+            "www.timetwig.com": "INACTIVE"
         },
-        "1572389091": {
+        "1572519798": {
+            "www.roosterfirework.com": "INACTIVE"
+        },
+        "1572519799": {
+            "www.sincerebuffalo.com": "INACTIVE"
+        },
+        "1572519800": {
+            "www.elderlyinsect.com": "INACTIVE",
+            "www.gorgeousground.com": "INACTIVE",
+            "www.hilariouszinc.com": "INACTIVE",
+            "www.tremendoustreatment.com": "INACTIVE",
+            "www.wirecomic.com": "INACTIVE"
+        },
+        "1572519801": {
+            "www.chiefcurrent.com": "INACTIVE",
+            "www.earthycopy.com": "INACTIVE",
+            "www.possessivebucket.com": "INACTIVE"
+        },
+        "1572519802": {
+            "content.synapsys.us": "INACTIVE"
+        },
+        "1572519803": {
+            "settings.crashlytics.com": "INACTIVE",
+            "www.4jnzhl0d0.com": "INACTIVE",
+            "www.cloisteredhydrant.com": "INACTIVE",
+            "www.critictruck.com": "INACTIVE",
+            "www.curtaincows.com": "INACTIVE",
+            "www.languagelake.com": "INACTIVE",
+            "www.untidyquestion.com": "INACTIVE"
+        },
+        "1572519805": {
+            "www.loudloss.com": "INACTIVE",
+            "www.ovalpigs.com": "INACTIVE",
+            "www.sugarcurtain.com": "INACTIVE"
+        },
+        "1572519807": {
+            "www.roosterfirework.com": "INACTIVE"
+        },
+        "1572519808": {
+            "telemetry.nvidia.com": "INACTIVE",
+            "www.eliminateeffect.com": "INACTIVE",
+            "www.spottednoise.com": "INACTIVE"
+        },
+        "1572519813": {
+            "www.simplisticnose.com": "INACTIVE"
+        },
+        "1572519814": {
+            "reports.crashlytics.com": "INACTIVE",
+            "www.necessarywax.com": "INACTIVE",
+            "www.nondescriptcrowd.com": "INACTIVE",
+            "www.practicetoothpaste.com": "INACTIVE",
+            "www.thinkabletrick.com": "INACTIVE"
+        },
+        "1572519815": {
+            "shelterstraw.com": "INACTIVE",
+            "www.complextoad.com": "INACTIVE",
+            "www.elderlytown.com": "INACTIVE",
+            "www.greasemotion.com": "INACTIVE",
+            "www.jamexistence.com": "INACTIVE",
+            "www.rhymezebra.com": "INACTIVE",
+            "www.thomastorch.com": "INACTIVE"
+        },
+        "1572519821": {
+            "crownclam.com": "INACTIVE",
+            "www.clearcabbage.com": "INACTIVE",
+            "www.enthusiasticdad.com": "INACTIVE"
+        },
+        "1572519822": {
+            "www.uaswitcher.org": "INACTIVE"
+        },
+        "1572519823": {
+            "www.cutecushion.com": "INACTIVE",
+            "www.pietexture.com": "INACTIVE"
+        },
+        "1572519824": {
+            "nexus.ensighten.com": "INACTIVE",
+            "www.correctchaos.com": "INACTIVE",
+            "www.thirstytwig.com": "INACTIVE",
+            "www.throattrees.com": "INACTIVE"
+        },
+        "1572519825": {
+            "www.dq95d35.com": "INACTIVE",
+            "www.receptivereaction.com": "INACTIVE",
+            "www.scarcesign.com": "INACTIVE"
+        },
+        "1572519826": {
+            "www.billowybead.com": "INACTIVE",
+            "www.modifyeyes.com": "INACTIVE",
+            "www.whirlwealth.com": "INACTIVE"
+        },
+        "1572519827": {
+            "dolphindispute.com": "INACTIVE",
+            "www.sneakystamp.com": "INACTIVE",
+            "www.truckstomatoes.com": "INACTIVE"
+        },
+        "1572519828": {
+            "www.inquisitiveinvention.com": "INACTIVE",
+            "www.savorystructure.com": "INACTIVE",
+            "www.suddensidewalk.com": "INACTIVE"
+        },
+        "1572519833": {
+            "www.actuallysheep.com": "INACTIVE",
+            "www.coinhiveproxy.com": "INACTIVE",
+            "www.guitarbelieve.com": "INACTIVE"
+        },
+        "1572519835": {
+            "www.abruptroad.com": "INACTIVE",
+            "www.butterburst.com": "INACTIVE",
+            "www.experienceeggs.com": "INACTIVE",
+            "www.hollowshake.com": "INACTIVE"
+        },
+        "1572519836": {
+            "teschenite.com": "INACTIVE",
+            "www.heavyplayground.com": "INACTIVE",
+            "www.stakingscrew.com": "INACTIVE"
+        },
+        "1572519837": {
+            "app-analytics.snapchat.com": "INACTIVE",
+            "www.drabsize.com": "INACTIVE"
+        },
+        "1572519839": {
+            "www-googletagmanager.l.google.com": "INACTIVE",
+            "www.debonairway.com": "INACTIVE"
+        },
+        "1572519840": {
+            "www.detailedgovernment.com": "INACTIVE",
+            "www.stiffstem.com": "INACTIVE"
+        },
+        "1572519841": {
+            "ip-info.ff.avast.com": "INACTIVE",
+            "www.giraffepiano.com": "INACTIVE",
+            "www.quaintcan.com": "INACTIVE",
+            "www.texturetrick.com": "INACTIVE"
+        },
+        "1572519842": {
+            "www.bhcumsc.com": "INACTIVE",
+            "www.cannonjudo.com": "INACTIVE"
+        },
+        "1572519843": {
+            "www.clearcomb.com": "INACTIVE",
+            "www.tzwaw.pw": "INACTIVE",
+            "www.wrongpotato.com": "INACTIVE"
+        },
+        "1572519848": {
+            "www.thinkablerice.com": "INACTIVE"
+        },
+        "1572519849": {
+            "terribleturkey.com": "INACTIVE",
+            "www.frailoffer.com": "INACTIVE",
+            "www.terribleturkey.com": "INACTIVE"
+        },
+        "1572519850": {
+            "www.quacksquirrel.com": "INACTIVE"
+        },
+        "1572519855": {
+            "kvinit-prod.api.kochava.com": "INACTIVE",
+            "www.arithmeticadjustment.com": "INACTIVE",
+            "www.j93557g.com": "INACTIVE",
+            "www.respectrain.com": "INACTIVE",
+            "www.womanear.com": "INACTIVE"
+        },
+        "1572519860": {
+            "matchcows.com": "INACTIVE",
             "telemetry.malwarebytes.com": "INACTIVE",
-            "www.inventionpassenger.com": "INACTIVE"
+            "www.calculatorcamera.com": "INACTIVE"
         },
-        "1572389093": {
-            "www.boilingbeetle.com": "INACTIVE",
-            "www.cherrythread.com": "INACTIVE"
+        "1572519861": {
+            "peacepowder.com": "INACTIVE",
+            "www.icebergindigo.com": "INACTIVE"
         },
-        "1572389097": {
-            "www.oppositeoperation.com": "INACTIVE"
+        "1572519864": {
+            "www.cuteturkey.com": "INACTIVE",
+            "www.dripappliance.com": "INACTIVE",
+            "www.insnw.net": "INACTIVE",
+            "www.truthfulturn.com": "INACTIVE"
+        },
+        "1572519865": {
+            "hbopenbid.pubmatic.com": "INACTIVE",
+            "www.consciouscabbage.com": "INACTIVE",
+            "www.funnyairplane.com": "INACTIVE"
+        },
+        "1572519866": {
+            "www.franticcarpenter.com": "INACTIVE"
         }
     }
 }
