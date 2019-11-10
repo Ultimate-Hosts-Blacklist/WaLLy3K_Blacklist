@@ -57,7 +57,6 @@
             "www.advertisementafterthought.com": "INACTIVE",
             "www.beamkite.com": "INACTIVE",
             "www.elasticchange.com": "INACTIVE",
-            "www.innocentinvention.com": "INACTIVE",
             "www.instrumentsponge.com": "INACTIVE",
             "www.sorethunder.com": "INACTIVE",
             "www.thingsafterthought.com": "INACTIVE"
@@ -670,6 +669,8 @@
             "ads.samsung.com": "INACTIVE",
             "www.photographpan.com": "INACTIVE",
             "www.stiffstem.com": "INACTIVE"
+        },
+        "1"www.stiffstem.com": "INACTIVE"
         },
         "1573124809": {
             "www.detailedglue.com": "INACTIVE",
