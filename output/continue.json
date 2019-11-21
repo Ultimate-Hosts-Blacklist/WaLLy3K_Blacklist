@@ -723,7 +723,12 @@
         "collector.abc-host.net.au",
         "telemetry.gfe.nvidia.com",
         "prg.smartadserver.com",
-        "g.ezoic.net"
+        "g.ezoic.net",
+        "sdk.appsflyer.com",
+        "rpc.tapjoy.com",
+        "telemetry.malwarebytes.com",
+        "trk.klclick.com",
+        "nexus.ensighten.com"
     ],
     "INACTIVE": [
         "www.vanfireworks.com",
@@ -1328,6 +1333,13 @@
         "snakesort.com",
         "www.snakesort.com",
         "shallowschool.com",
-        "www.shallowschool.com"
+        "www.shallowschool.com",
+        "guitarbelieve.com",
+        "www.guitarbelieve.com",
+        "ad.fyber.angsrvr.com",
+        "structuresofa.com",
+        "www.structuresofa.com",
+        "www.chiefcurrent.com",
+        "chiefcurrent.com"
     ]
 }
