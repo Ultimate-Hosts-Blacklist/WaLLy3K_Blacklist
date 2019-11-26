@@ -1,32 +1,23 @@
 {
-    "current_stats": {
-        "builds": 1,
-        "counter": {
-            "down": 594,
-            "invalid": 0,
-            "tested": 1327,
-            "up": 733
-        }
-    },
-    "currently_under_test": "1",
+    "currently_under_test": "0",
     "days_until_next_test": 2,
-    "end_datetime": "Mon Nov 25 00:29:00 2019",
-    "end_epoch": 1574641740.422049,
+    "end_datetime": "Tue Nov 26 23:40:23 2019",
+    "end_epoch": 1574811623.73708,
     "last_autosave_datetime": "Tue Nov 26 23:21:49 2019",
     "last_autosave_epoch": 1574810509.970479,
     "name": "WaLLy3K_Blacklist",
     "previous_stats": {
         "builds": 2,
-        "clean.list": 734,
+        "clean.list": 733,
         "counter": {
-            "down": 604,
+            "down": 605,
             "invalid": 0,
             "tested": 1338,
-            "up": 734
+            "up": 733
         },
         "domains.list": 1338,
-        "volatile.list": 734,
-        "whitelisted.list": 734
+        "volatile.list": 733,
+        "whitelisted.list": 733
     },
     "raw_link": "https://v.firebog.net/hosts/static/w3kbl.txt",
     "start_datetime": "Tue Nov 26 23:11:32 2019",
