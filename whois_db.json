@@ -2668,5 +2668,10 @@
         "epoch": 1601856000,
         "expiration_date": "05-oct-2020",
         "state": "future"
+    },
+    "zlp6s.pw": {
+        "epoch": 1586822400.0,
+        "expiration_date": "14-apr-2020",
+        "state": "future"
     }
 }
