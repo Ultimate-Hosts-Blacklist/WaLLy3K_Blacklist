@@ -1315,9 +1315,9 @@
         "state": "future"
     },
     "insnw.net": {
-        "epoch": 1575676800,
+        "epoch": 1575676800.0,
         "expiration_date": "07-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "instartlogic.com": {
         "epoch": 1599523200,
