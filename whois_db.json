@@ -1389,6 +1389,11 @@
         "expiration_date": "05-oct-2020",
         "state": "future"
     },
+    "k54nw.pw": {
+        "epoch": 1586822400.0,
+        "expiration_date": "14-apr-2020",
+        "state": "future"
+    },
     "karisimbi.net": {
         "epoch": 1604016000,
         "expiration_date": "30-oct-2020",
