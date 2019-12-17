@@ -1605,9 +1605,9 @@
         "state": "future"
     },
     "opencache.com": {
-        "epoch": 1576540800,
+        "epoch": 1576540800.0,
         "expiration_date": "17-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "oppositeoperation.com": {
         "epoch": 1590796800,
