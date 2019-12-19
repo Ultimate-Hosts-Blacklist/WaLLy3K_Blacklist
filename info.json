@@ -1,17 +1,8 @@
 {
-    "current_stats": {
-        "builds": 1,
-        "counter": {
-            "down": 343,
-            "invalid": 0,
-            "tested": 772,
-            "up": 429
-        }
-    },
-    "currently_under_test": "1",
+    "currently_under_test": "0",
     "days_until_next_test": 2,
-    "end_datetime": "Tue Dec 17 12:12:29 2019",
-    "end_epoch": 1576584749.53418,
+    "end_datetime": "Thu Dec 19 00:38:11 2019",
+    "end_epoch": 1576715891.889591,
     "last_autosave_datetime": "Wed Dec 18 23:51:54 2019",
     "last_autosave_epoch": 1576713114.231758,
     "name": "WaLLy3K_Blacklist",
@@ -19,12 +10,12 @@
         "builds": 2,
         "clean.list": 733,
         "counter": {
-            "down": 595,
+            "down": 606,
             "invalid": 0,
-            "tested": 1328,
+            "tested": 1339,
             "up": 733
         },
-        "domains.list": 1328,
+        "domains.list": 1339,
         "volatile.list": 733,
         "whitelisted.list": 733
     },
