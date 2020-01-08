@@ -100,8 +100,8 @@
         "state": "future"
     },
     "alertafterthought.com": {
-        "epoch": 1578355200.0,
-        "expiration_date": "07-jan-2020",
+        "epoch": 1609977600.0,
+        "expiration_date": "07-jan-2021",
         "state": "future"
     },
     "alikearm.com": {
@@ -150,8 +150,8 @@
         "state": "future"
     },
     "attractivecap.com": {
-        "epoch": 1578355200,
-        "expiration_date": "07-jan-2020",
+        "epoch": 1609977600.0,
+        "expiration_date": "07-jan-2021",
         "state": "future"
     },
     "auntants.com": {
@@ -160,8 +160,8 @@
         "state": "future"
     },
     "awakebird.com": {
-        "epoch": 1578355200,
-        "expiration_date": "07-jan-2020",
+        "epoch": 1609977600.0,
+        "expiration_date": "07-jan-2021",
         "state": "future"
     },
     "awzbijw.com": {
@@ -265,8 +265,8 @@
         "state": "future"
     },
     "boredborder.com": {
-        "epoch": 1578355200,
-        "expiration_date": "07-jan-2020",
+        "epoch": 1609977600.0,
+        "expiration_date": "07-jan-2021",
         "state": "future"
     },
     "boredcrown.com": {
@@ -285,8 +285,8 @@
         "state": "future"
     },
     "breakfastboat.com": {
-        "epoch": 1578355200,
-        "expiration_date": "07-jan-2020",
+        "epoch": 1609977600.0,
+        "expiration_date": "07-jan-2021",
         "state": "future"
     },
     "briefbears.com": {
@@ -355,8 +355,8 @@
         "state": "future"
     },
     "calmcactus.com": {
-        "epoch": 1578355200,
-        "expiration_date": "07-jan-2020",
+        "epoch": 1609977600.0,
+        "expiration_date": "07-jan-2021",
         "state": "future"
     },
     "calmfoot.com": {
@@ -450,8 +450,8 @@
         "state": "future"
     },
     "clearcabbage.com": {
-        "epoch": 1578355200,
-        "expiration_date": "07-jan-2020",
+        "epoch": 1609977600.0,
+        "expiration_date": "07-jan-2021",
         "state": "future"
     },
     "clearcomb.com": {
@@ -510,9 +510,9 @@
         "state": "future"
     },
     "concernrain.com": {
-        "epoch": 1578441600,
+        "epoch": 1578441600.0,
         "expiration_date": "08-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "consciousdirt.com": {
         "epoch": 1582761600,
@@ -710,8 +710,8 @@
         "state": "future"
     },
     "detectdinner.com": {
-        "epoch": 1578355200,
-        "expiration_date": "07-jan-2020",
+        "epoch": 1609977600.0,
+        "expiration_date": "07-jan-2021",
         "state": "future"
     },
     "detectdiscovery.com": {
@@ -905,8 +905,8 @@
         "state": "future"
     },
     "excuseearthquake.com": {
-        "epoch": 1578355200,
-        "expiration_date": "07-jan-2020",
+        "epoch": 1609977600.0,
+        "expiration_date": "07-jan-2021",
         "state": "future"
     },
     "experienceeggs.com": {
@@ -930,9 +930,9 @@
         "state": "future"
     },
     "fanaticalfly.com": {
-        "epoch": 1578441600,
+        "epoch": 1578441600.0,
         "expiration_date": "08-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "farethief.com": {
         "epoch": 1592524800,
@@ -955,8 +955,8 @@
         "state": "future"
     },
     "finalizeforce.com": {
-        "epoch": 1578355200,
-        "expiration_date": "07-jan-2020",
+        "epoch": 1609977600.0,
+        "expiration_date": "07-jan-2021",
         "state": "future"
     },
     "flakyfeast.com": {
@@ -1035,8 +1035,8 @@
         "state": "future"
     },
     "funnyairplane.com": {
-        "epoch": 1578355200,
-        "expiration_date": "07-jan-2020",
+        "epoch": 1609977600.0,
+        "expiration_date": "07-jan-2021",
         "state": "future"
     },
     "futuristicapparatus.com": {
@@ -1055,8 +1055,8 @@
         "state": "future"
     },
     "futuristicfifth.com": {
-        "epoch": 1578355200,
-        "expiration_date": "07-jan-2020",
+        "epoch": 1609977600.0,
+        "expiration_date": "07-jan-2021",
         "state": "future"
     },
     "futuristicfold.com": {
@@ -1290,8 +1290,8 @@
         "state": "future"
     },
     "ink1001.com": {
-        "epoch": 1578355200,
-        "expiration_date": "07-jan-2020",
+        "epoch": 1609977600.0,
+        "expiration_date": "07-jan-2021",
         "state": "future"
     },
     "innocentinvention.com": {
@@ -1340,8 +1340,8 @@
         "state": "future"
     },
     "investigatepin.com": {
-        "epoch": 1578355200,
-        "expiration_date": "07-jan-2020",
+        "epoch": 1609977600.0,
+        "expiration_date": "07-jan-2021",
         "state": "future"
     },
     "invisioncloudstats.com": {
@@ -1405,8 +1405,8 @@
         "state": "future"
     },
     "knottysticks.com": {
-        "epoch": 1578355200,
-        "expiration_date": "07-jan-2020",
+        "epoch": 1609977600.0,
+        "expiration_date": "07-jan-2021",
         "state": "future"
     },
     "languagelake.com": {
@@ -1640,8 +1640,8 @@
         "state": "future"
     },
     "panoramicbutter.com": {
-        "epoch": 1578355200,
-        "expiration_date": "07-jan-2020",
+        "epoch": 1609977600.0,
+        "expiration_date": "07-jan-2021",
         "state": "future"
     },
     "parchedangle.com": {
@@ -1815,8 +1815,8 @@
         "state": "future"
     },
     "rainystretch.com": {
-        "epoch": 1578355200,
-        "expiration_date": "07-jan-2020",
+        "epoch": 1609977600.0,
+        "expiration_date": "07-jan-2021",
         "state": "future"
     },
     "rapidkittens.com": {
@@ -1940,8 +1940,8 @@
         "state": "future"
     },
     "rodeopolice.com": {
-        "epoch": 1578355200,
-        "expiration_date": "07-jan-2020",
+        "epoch": 1609977600.0,
+        "expiration_date": "07-jan-2021",
         "state": "future"
     },
     "roosterfirework.com": {
@@ -2225,8 +2225,8 @@
         "state": "future"
     },
     "squeakzinc.com": {
-        "epoch": 1578355200,
-        "expiration_date": "07-jan-2020",
+        "epoch": 1641513600.0,
+        "expiration_date": "07-jan-2022",
         "state": "future"
     },
     "stakingscrew.com": {
