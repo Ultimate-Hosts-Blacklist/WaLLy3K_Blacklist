@@ -510,9 +510,9 @@
         "state": "future"
     },
     "concernrain.com": {
-        "epoch": 1578441600.0,
-        "expiration_date": "08-jan-2020",
-        "state": "past"
+        "epoch": 1610064000.0,
+        "expiration_date": "08-jan-2021",
+        "state": "future"
     },
     "consciousdirt.com": {
         "epoch": 1582761600,
@@ -930,9 +930,9 @@
         "state": "future"
     },
     "fanaticalfly.com": {
-        "epoch": 1578441600.0,
-        "expiration_date": "08-jan-2020",
-        "state": "past"
+        "epoch": 1610064000.0,
+        "expiration_date": "08-jan-2021",
+        "state": "future"
     },
     "farethief.com": {
         "epoch": 1592524800,
@@ -965,8 +965,8 @@
         "state": "future"
     },
     "flavordecision.com": {
-        "epoch": 1578441600,
-        "expiration_date": "08-jan-2020",
+        "epoch": 1610064000.0,
+        "expiration_date": "08-jan-2021",
         "state": "future"
     },
     "flimsycircle.com": {
