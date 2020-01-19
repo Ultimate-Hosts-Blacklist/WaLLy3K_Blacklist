@@ -1,19 +1,19 @@
 {
     "current_stats": {
-        "builds": 1,
+        "builds": 2,
         "counter": {
-            "down": 259,
+            "down": 521,
             "invalid": 0,
-            "tested": 652,
-            "up": 393
+            "tested": 1251,
+            "up": 730
         }
     },
     "currently_under_test": "1",
     "days_until_next_test": 2,
     "end_datetime": "Fri Jan 17 23:38:11 2020",
     "end_epoch": 1579304291.039532,
-    "last_autosave_datetime": "Sat Jan 18 22:48:25 2020",
-    "last_autosave_epoch": 1579387705.2791,
+    "last_autosave_datetime": "Sun Jan 19 00:06:26 2020",
+    "last_autosave_epoch": 1579392386.238383,
     "name": "WaLLy3K_Blacklist",
     "previous_stats": {
         "builds": 2,
