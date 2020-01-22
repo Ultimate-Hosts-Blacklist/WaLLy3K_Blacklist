@@ -730,7 +730,8 @@
         "flakyfeast.com",
         "parsimoniouspolice.com",
         "engine.fyber.com",
-        "assets.micpn.com"
+        "assets.micpn.com",
+        "kvinit-prod.api.kochava.com"
     ],
     "INACTIVE": [
         "www.threechurch.com",
@@ -1327,6 +1328,18 @@
         "insnw.ne",
         "www.insnw.ne",
         "scarcestream.com",
-        "www.scarcestream.com"
+        "www.scarcestream.com",
+        "tritetongue.com",
+        "www.tritetongue.com",
+        "shallowschool.com",
+        "www.shallowschool.com",
+        "gfe.geforce.com",
+        "delightdriving.com",
+        "www.delightdriving.com",
+        "content.synapsys.us",
+        "sneaklevel.com",
+        "www.sneaklevel.com",
+        "saber.srvcs.tumblr.com",
+        "sdk.iad-05.braze.com"
     ]
 }
