@@ -499,6 +499,11 @@
         "expiration_date": "25-oct-2020",
         "state": "future"
     },
+    "complextoad.com": {
+        "epoch": 1603238400.0,
+        "expiration_date": "21-oct-2020",
+        "state": "future"
+    },
     "concernedcondition.com": {
         "epoch": 1606694400.0,
         "expiration_date": "30-nov-2020",
@@ -1277,6 +1282,11 @@
     "informengine.com": {
         "epoch": 1582761600.0,
         "expiration_date": "27-feb-2020",
+        "state": "future"
+    },
+    "ink1001.com": {
+        "epoch": 1609977600.0,
+        "expiration_date": "07-jan-2021",
         "state": "future"
     },
     "innocentinvention.com": {
