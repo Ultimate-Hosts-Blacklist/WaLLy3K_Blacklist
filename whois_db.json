@@ -1455,9 +1455,9 @@
         "state": "future"
     },
     "lumpyleaf.com": {
-        "epoch": 1579651200.0,
-        "expiration_date": "22-jan-2020",
-        "state": "past"
+        "epoch": 1611273600.0,
+        "expiration_date": "22-jan-2021",
+        "state": "future"
     },
     "maniacalappliance.com": {
         "epoch": 1598227200.0,
@@ -1940,8 +1940,8 @@
         "state": "future"
     },
     "roosterfirework.com": {
-        "epoch": 1579996800.0,
-        "expiration_date": "26-jan-2020",
+        "epoch": 1611619200.0,
+        "expiration_date": "26-jan-2021",
         "state": "future"
     },
     "roughroll.com": {
