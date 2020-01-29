@@ -732,7 +732,9 @@
         "kvinit-prod.api.kochava.com",
         "images.nvidiagrid.net",
         "assets.micpn.com",
-        "engine.fyber.com"
+        "engine.fyber.com",
+        "startdigitaal.nl",
+        "www.startdigitaal.nl"
     ],
     "INACTIVE": [
         "www.divergentoffer.com",
@@ -1334,6 +1336,10 @@
         "truthfulturn.com",
         "www.truthfulturn.com",
         "static-assets-queue-it.net",
-        "www.static-assets-queue-it.net"
+        "www.static-assets-queue-it.net",
+        "ads.samsung.com",
+        "sdk.iad-05.braze.com",
+        "insnw.ne",
+        "www.insnw.ne"
     ]
 }
