@@ -2079,6 +2079,11 @@
         "expiration_date": "08-oct-2020",
         "state": "future"
     },
+    "sicksmash.com": {
+        "epoch": 1597622400.0,
+        "expiration_date": "17-aug-2020",
+        "state": "future"
+    },
     "sillyscrew.com": {
         "epoch": 1597622400.0,
         "expiration_date": "17-aug-2020",
