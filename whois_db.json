@@ -329,6 +329,11 @@
         "expiration_date": "30-nov-2020",
         "state": "future"
     },
+    "butterburst.com": {
+        "epoch": 1590796800.0,
+        "expiration_date": "30-may-2020",
+        "state": "future"
+    },
     "calculatingcircle.com": {
         "epoch": 1597622400.0,
         "expiration_date": "17-aug-2020",
@@ -1237,6 +1242,11 @@
     "hystericalhelp.com": {
         "epoch": 1597622400.0,
         "expiration_date": "17-aug-2020",
+        "state": "future"
+    },
+    "i9w8p.pw": {
+        "epoch": 1586822400.0,
+        "expiration_date": "14-apr-2020",
         "state": "future"
     },
     "icebergindigo.com": {
@@ -2555,9 +2565,9 @@
         "state": "future"
     },
     "volantix.com": {
-        "epoch": 1581811200.0,
-        "expiration_date": "16-feb-2020",
-        "state": "past"
+        "epoch": 1613433600.0,
+        "expiration_date": "16-feb-2021",
+        "state": "future"
     },
     "vungle.com": {
         "epoch": 1666742400.0,
