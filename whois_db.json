@@ -9,6 +9,11 @@
         "expiration_date": "24-feb-2021",
         "state": "future"
     },
+    "5mcwl.pw": {
+        "epoch": 1586822400.0,
+        "expiration_date": "14-apr-2020",
+        "state": "future"
+    },
     "6ldu6qa.com": {
         "epoch": 1614124800.0,
         "expiration_date": "24-feb-2021",
@@ -1369,6 +1374,11 @@
         "expiration_date": "05-oct-2020",
         "state": "future"
     },
+    "k54nw.pw": {
+        "epoch": 1586822400.0,
+        "expiration_date": "14-apr-2020",
+        "state": "future"
+    },
     "karisimbi.net": {
         "epoch": 1604016000.0,
         "expiration_date": "30-oct-2020",
@@ -2357,6 +2367,11 @@
     "tastefulsongs.com": {
         "epoch": 1607817600.0,
         "expiration_date": "13-dec-2020",
+        "state": "future"
+    },
+    "tdzvm.pw": {
+        "epoch": 1586822400.0,
+        "expiration_date": "14-apr-2020",
         "state": "future"
     },
     "teenyvolcano.com": {
