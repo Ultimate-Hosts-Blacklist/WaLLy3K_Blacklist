@@ -2489,6 +2489,11 @@
         "expiration_date": "17-aug-2020",
         "state": "future"
     },
+    "tzwaw.pw": {
+        "epoch": 1586822400.0,
+        "expiration_date": "14-apr-2020",
+        "state": "future"
+    },
     "uaswitcher.org": {
         "epoch": 1593388800.0,
         "expiration_date": "29-jun-2020",
