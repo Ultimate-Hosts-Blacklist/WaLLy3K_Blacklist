@@ -8,7 +8,7 @@
     "name": "WaLLy3K_Blacklist",
     "previous_stats": {
         "builds": 1,
-        "clean_list": 734,
+        "clean_list": 735,
         "counter": {
             "down": 0,
             "invalid": 0,
@@ -19,10 +19,10 @@
             "valid": 0
         },
         "domains.list": 775,
-        "volatile.list": 735,
-        "whitelisted.list": 734
+        "volatile.list": 736,
+        "whitelisted.list": 735
     },
     "raw_link": "https://v.firebog.net/hosts/static/w3kbl.txt",
-    "start_datetime": "2020-03-22T01:08:45.501929",
-    "start_epoch": 1584839325.501929
+    "start_datetime": "2020-03-24T01:09:27.503340",
+    "start_epoch": 1585012167.50334
 }
