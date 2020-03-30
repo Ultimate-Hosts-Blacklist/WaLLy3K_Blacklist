@@ -69,6 +69,11 @@
         "expiration_date": "08-jun-2020",
         "state": "future"
     },
+    "adnxs.com": {
+        "epoch": 1590537600.0,
+        "expiration_date": "27-may-2020",
+        "state": "future"
+    },
     "adtrackers.net": {
         "epoch": 1600473600.0,
         "expiration_date": "19-sep-2020",
@@ -147,6 +152,11 @@
     "arithmeticadjustment.com": {
         "epoch": 1633651200.0,
         "expiration_date": "08-oct-2021",
+        "state": "future"
+    },
+    "asadcdn.com": {
+        "epoch": 1611187200.0,
+        "expiration_date": "21-jan-2021",
         "state": "future"
     },
     "attractivecap.com": {
@@ -754,6 +764,11 @@
         "expiration_date": "27-feb-2021",
         "state": "future"
     },
+    "doubleclick.net": {
+        "epoch": 1610841600.0,
+        "expiration_date": "17-jan-2021",
+        "state": "future"
+    },
     "doubtfulrainstorm.com": {
         "epoch": 1585872000.0,
         "expiration_date": "03-apr-2020",
@@ -1122,6 +1137,16 @@
     "gondolagnome.com": {
         "epoch": 1592524800.0,
         "expiration_date": "19-jun-2020",
+        "state": "future"
+    },
+    "googlesyndication.com": {
+        "epoch": 1611187200.0,
+        "expiration_date": "21-jan-2021",
+        "state": "future"
+    },
+    "googletagservices.com": {
+        "epoch": 1608163200.0,
+        "expiration_date": "17-dec-2020",
         "state": "future"
     },
     "gorgeousground.com": {
