@@ -3,11 +3,11 @@
     "days_until_next_test": 2,
     "end_datetime": "2020-03-04T11:11:28.578256",
     "end_epoch": 1583243530.249594,
+    "issue_link": null,
     "last_autosave_datetime": "2020-03-04T11:11:28.578276",
     "last_autosave_epoch": 1583239343.563863,
-    "name": "WaLLy3K_Blacklist",
     "link": "https://v.firebog.net/hosts/static/w3kbl.txt",
-    "issue_link": null,
+    "name": "WaLLy3K_Blacklist",
     "previous_stats": {
         "builds": 1,
         "clean_list": 751,
@@ -21,10 +21,10 @@
             "valid": 0
         },
         "domains.list": 796,
-        "volatile.list": 752,
+        "volatile.list": 751,
         "whitelisted.list": 751
     },
     "raw_link": "https://v.firebog.net/hosts/static/w3kbl.txt",
-    "start_datetime": "2020-04-08T00:15:25.099950",
-    "start_epoch": 1586304925.09995
+    "start_datetime": "2020-04-08T10:43:14.711792",
+    "start_epoch": 1586342594.711792
 }
