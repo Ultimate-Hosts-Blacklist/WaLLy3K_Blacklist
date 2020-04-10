@@ -21,10 +21,10 @@
             "valid": 0
         },
         "domains.list": 796,
-        "volatile.list": 752,
+        "volatile.list": 751,
         "whitelisted.list": 751
     },
     "raw_link": "https://v.firebog.net/hosts/static/w3kbl.txt",
-    "start_datetime": "2020-04-10T01:12:18.755623",
-    "start_epoch": 1586481138.755623
+    "start_datetime": "2020-04-10T11:04:50.571633",
+    "start_epoch": 1586516690.571633
 }
