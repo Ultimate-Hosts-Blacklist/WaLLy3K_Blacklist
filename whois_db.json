@@ -92,7 +92,7 @@
     "agreeableprice.com": {
         "epoch": 1591488000.0,
         "expiration_date": "07-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "agreeabletouch.com": {
         "epoch": 1602115200.0,
