@@ -2484,6 +2484,11 @@
         "expiration_date": "26-feb-2021",
         "state": "future"
     },
+    "tidytrail.com": {
+        "epoch": 1627603200.0,
+        "expiration_date": "30-jul-2021",
+        "state": "future"
+    },
     "timetwig.com": {
         "epoch": 1602115200.0,
         "expiration_date": "08-oct-2020",
