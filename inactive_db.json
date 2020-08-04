@@ -1995,6 +1995,13 @@
             "last_retested_at_iso": "2020-08-04T02:35:35.839900",
             "status": "INACTIVE"
         },
+        "www.functionalclam.com": {
+            "included_at_epoch": 1596541858.687166,
+            "included_at_iso": "2020-08-04T11:50:58.687166",
+            "last_retested_at_epoch": 1596541858.687166,
+            "last_retested_at_iso": "2020-08-04T11:50:58.687166",
+            "status": "INACTIVE"
+        },
         "www.functionalcrown.com": {
             "included_at_epoch": 1588384001.0,
             "included_at_iso": "2020-05-02T01:46:41",
@@ -3048,8 +3055,8 @@
         "www.puzzlingfall.com": {
             "included_at_epoch": 1583320565.0,
             "included_at_iso": "2020-03-04T11:16:05",
-            "last_retested_at_epoch": 1583320565.0,
-            "last_retested_at_iso": "2020-03-04T11:16:05",
+            "last_retested_at_epoch": 1596541969.777563,
+            "last_retested_at_iso": "2020-08-04T11:52:49.777563",
             "status": "INACTIVE"
         },
         "www.quacksquirrel.com": {
