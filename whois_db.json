@@ -1982,7 +1982,7 @@
     "rpxnow.com": {
         "epoch": 1598918400.0,
         "expiration_date": "01-sep-2020",
-        "state": "future"
+        "state": "past"
     },
     "ruthlessmilk.com": {
         "epoch": 1602115200.0,
@@ -2587,7 +2587,7 @@
     "usekahuna.com": {
         "epoch": 1598918400.0,
         "expiration_date": "01-sep-2020",
-        "state": "future"
+        "state": "past"
     },
     "uttermosthobbies.com": {
         "epoch": 1607817600.0,
