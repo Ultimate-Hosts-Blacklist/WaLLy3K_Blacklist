@@ -1980,9 +1980,9 @@
         "state": "future"
     },
     "rpxnow.com": {
-        "epoch": 1598918400.0,
-        "expiration_date": "01-sep-2020",
-        "state": "past"
+        "epoch": 1630454400.0,
+        "expiration_date": "01-sep-2021",
+        "state": "future"
     },
     "ruthlessmilk.com": {
         "epoch": 1602115200.0,
@@ -2585,9 +2585,9 @@
         "state": "future"
     },
     "usekahuna.com": {
-        "epoch": 1598918400.0,
-        "expiration_date": "01-sep-2020",
-        "state": "past"
+        "epoch": 1630454400.0,
+        "expiration_date": "01-sep-2021",
+        "state": "future"
     },
     "uttermosthobbies.com": {
         "epoch": 1607817600.0,
