@@ -1,9 +1,9 @@
 {
-    "currently_under_test": true,
+    "currently_under_test": false,
     "custom_pyfunceble_config": {},
     "days_until_next_test": 2,
-    "end_datetime": "2020-03-04T11:11:28.578256",
-    "end_epoch": 1583243530.249594,
+    "end_datetime": "2021-01-24T12:17:01.132025",
+    "end_epoch": 1611490621.132025,
     "issue_link": null,
     "link": "https://v.firebog.net/hosts/static/w3kbl.txt",
     "name": "WaLLy3K_Blacklist",
