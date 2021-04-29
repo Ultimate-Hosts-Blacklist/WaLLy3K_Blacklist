@@ -1,6 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-engine.fyber.com,AVAILABILITY,domains.list,2021-04-27 12:49:22.920369
-www.volantix.com,AVAILABILITY,domains.list,2021-04-27 12:51:16.195367
 metrics.plex.tv,AVAILABILITY,domains.list,2021-04-28 01:22:21.445011
 a1.adstore.jp,AVAILABILITY,domains.list,2021-04-28 01:22:24.382500
 fast-nc.appcues.com,AVAILABILITY,domains.list,2021-04-28 01:22:24.897322
@@ -625,3 +623,4 @@ www.youngmarble.com,AVAILABILITY,domains.list,2021-04-28 12:54:26.560769
 www.zealousfield.com,AVAILABILITY,domains.list,2021-04-28 12:54:27.152782
 www.zlp6s.pw,AVAILABILITY,domains.list,2021-04-28 12:54:27.913084
 ad.mopub.com,AVAILABILITY,domains.list,2021-04-28 12:54:28.512102
+www.volantix.com,AVAILABILITY,domains.list,2021-04-29 01:19:35.285986
