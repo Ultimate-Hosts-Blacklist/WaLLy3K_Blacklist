@@ -1,18 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-www.volantix.com,AVAILABILITY,domains.list,2021-05-01 01:22:26.053449
-metrics.plex.tv,AVAILABILITY,domains.list,2021-05-01 01:22:35.819234
-a1.adstore.jp,AVAILABILITY,domains.list,2021-05-01 01:22:37.738404
-fast-nc.appcues.com,AVAILABILITY,domains.list,2021-05-01 01:22:38.234723
-settings.crashlytics.com,AVAILABILITY,domains.list,2021-05-01 01:22:38.743435
-www.clearcomb.com,AVAILABILITY,domains.list,2021-05-01 01:22:39.087698
-www.excuseearthquake.com,AVAILABILITY,domains.list,2021-05-01 01:22:49.978730
-abandonedclover.com,AVAILABILITY,domains.list,2021-05-01 01:23:00.870790
-ads.samsung.com,AVAILABILITY,domains.list,2021-05-01 01:23:06.970923
-advertising.oriel.io,AVAILABILITY,domains.list,2021-05-01 01:23:07.391554
-aloseks.org,AVAILABILITY,domains.list,2021-05-01 01:23:12.818950
-api.data-monitor.info,AVAILABILITY,domains.list,2021-05-01 01:23:13.205517
-api211.thefilter.com,AVAILABILITY,domains.list,2021-05-01 01:23:15.245115
-beamkite.com,AVAILABILITY,domains.list,2021-05-01 01:23:15.768446
 ad.fyber.angsrvr.com,AVAILABILITY,domains.list,2021-05-01 01:23:32.401167
 brassrule.com,AVAILABILITY,domains.list,2021-05-01 01:23:32.870922
 cherrythread.com,AVAILABILITY,domains.list,2021-05-01 01:23:33.425753
@@ -625,3 +611,16 @@ www.zealousfield.com,AVAILABILITY,domains.list,2021-05-01 01:37:31.574152
 www.zlp6s.pw,AVAILABILITY,domains.list,2021-05-01 01:37:32.155992
 ad.mopub.com,AVAILABILITY,domains.list,2021-05-01 01:37:37.616951
 engine.fyber.com,AVAILABILITY,domains.list,2021-05-01 12:44:17.176171
+metrics.plex.tv,AVAILABILITY,domains.list,2021-05-02 01:26:31.651885
+a1.adstore.jp,AVAILABILITY,domains.list,2021-05-02 01:26:34.720722
+fast-nc.appcues.com,AVAILABILITY,domains.list,2021-05-02 01:26:35.233051
+settings.crashlytics.com,AVAILABILITY,domains.list,2021-05-02 01:26:35.769114
+www.clearcomb.com,AVAILABILITY,domains.list,2021-05-02 01:26:36.309722
+www.excuseearthquake.com,AVAILABILITY,domains.list,2021-05-02 01:26:36.789932
+abandonedclover.com,AVAILABILITY,domains.list,2021-05-02 01:26:37.419388
+ads.samsung.com,AVAILABILITY,domains.list,2021-05-02 01:26:39.717251
+advertising.oriel.io,AVAILABILITY,domains.list,2021-05-02 01:26:40.256482
+aloseks.org,AVAILABILITY,domains.list,2021-05-02 01:26:41.105885
+api.data-monitor.info,AVAILABILITY,domains.list,2021-05-02 01:26:41.618168
+api211.thefilter.com,AVAILABILITY,domains.list,2021-05-02 01:26:42.639462
+beamkite.com,AVAILABILITY,domains.list,2021-05-02 01:26:43.059902
