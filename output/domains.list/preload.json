@@ -1,0 +1,15 @@
+[
+    {
+        "checker_type": "AVAILABILITY",
+        "destination": "domains.list",
+        "hash": "d21463055414c0bf614a5508c7e1c25e157f2c1c6ca3b245ae66339b",
+        "line_number": 898,
+        "output_dir": "/home/runner/work/WaLLy3K_Blacklist/WaLLy3K_Blacklist/output/domains.list",
+        "previous_hash": "d21463055414c0bf614a5508c7e1c25e157f2c1c6ca3b245ae66339b",
+        "session_id": "95b33973873329108f641481",
+        "source": "domains.list",
+        "subject": "domains.list",
+        "subject_type": "domain",
+        "type": "file"
+    }
+]
