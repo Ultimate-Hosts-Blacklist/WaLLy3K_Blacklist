@@ -1,8 +1,8 @@
 {
-    "currently_under_test": true,
+    "currently_under_test": false,
     "days_until_next_test": 2,
-    "end_datetime": "2021-10-24T05:06:49.130672",
-    "end_epoch": 1635052009.130672,
+    "end_datetime": "2021-10-25T05:13:02.020332",
+    "end_epoch": 1635138782.020332,
     "issue_link": null,
     "link": "https://v.firebog.net/hosts/static/w3kbl.txt",
     "name": "WaLLy3K_Blacklist",
