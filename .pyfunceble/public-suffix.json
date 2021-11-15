@@ -1604,6 +1604,7 @@
         "workers.dev"
     ],
     "digital": [
+        "cloudapps.digital",
         "london.cloudapps.digital"
     ],
     "dk": [
@@ -7766,7 +7767,6 @@
         "bryansk.su",
         "bukhara.su",
         "chimkent.su",
-        "cloudapps.digital",
         "dagestan.su",
         "east-kazakhstan.su",
         "exnet.su",
