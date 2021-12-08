@@ -819,6 +819,7 @@
         "diadem.cloud",
         "elementor.cloud",
         "es-1.axarnet.cloud",
+        "eu.encoway.cloud",
         "it1.eur.aruba.jenv-aruba.cloud",
         "it1.jenv-aruba.cloud",
         "jele.cloud",
@@ -991,6 +992,7 @@
         "cechire.com",
         "ciscofreak.com",
         "clicketcloud.com",
+        "cloud.nospamproxy.com",
         "cloudcontrolapp.com",
         "cloudcontrolled.com",
         "cn.com",
@@ -1282,6 +1284,7 @@
         "pleskns.com",
         "point2this.com",
         "postman-echo.com",
+        "pro.typeform.com",
         "publishproxy.com",
         "pythonanywhere.com",
         "qa2.com",
@@ -6848,7 +6851,6 @@
         "pro.om"
     ],
     "one": [
-        "enterprisecloud.nu",
         "for.one",
         "homelink.one",
         "onred.one",
