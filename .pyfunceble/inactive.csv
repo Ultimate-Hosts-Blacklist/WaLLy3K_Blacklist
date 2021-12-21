@@ -1,6 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-engine.fyber.com,AVAILABILITY,domains.list,2021-12-19 06:30:10.648803
-www.adiode.com,AVAILABILITY,domains.list,2021-12-19 06:34:38.458220
 www.volantix.com,AVAILABILITY,domains.list,2021-12-20 06:35:38.071387
 adserver.lasiciliaweb.it,AVAILABILITY,domains.list,2021-12-20 06:35:39.102708
 provideplant.com,AVAILABILITY,domains.list,2021-12-20 06:35:39.711256
@@ -618,3 +616,4 @@ matchcows.com,AVAILABILITY,domains.list,2021-12-20 06:44:07.494775
 ovalpigs.com,AVAILABILITY,domains.list,2021-12-20 06:44:07.976868
 practicetoothpaste.com,AVAILABILITY,domains.list,2021-12-20 06:44:08.527526
 rules.noadblock.org,AVAILABILITY,domains.list,2021-12-20 06:44:09.494235
+www.adiode.com,AVAILABILITY,domains.list,2021-12-21 03:54:22.546497
