@@ -894,7 +894,6 @@
         "nm.cn",
         "nx.cn",
         "org.cn",
-        "pv.it",
         "qh.cn",
         "s3.cn-north-1.amazonaws.com.cn",
         "sc.cn",
@@ -1238,6 +1237,7 @@
         "lynx.mythic-beasts.com",
         "mazeplay.com",
         "members.linode.com",
+        "messwithdns.com",
         "meteorapp.com",
         "mex.com",
         "miniserver.com",
@@ -2539,6 +2539,7 @@
         "pu.it",
         "pug.it",
         "puglia.it",
+        "pv.it",
         "pz.it",
         "ra.it",
         "ragusa.it",
@@ -7068,6 +7069,7 @@
         "pdns.page",
         "plesk.page",
         "prvcy.page",
+        "rocky.page",
         "translated.page"
     ],
     "party": [
