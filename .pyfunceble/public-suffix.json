@@ -3587,6 +3587,7 @@
         "matsuura.nagasaki.jp",
         "matsuyama.ehime.jp",
         "matsuzaki.shizuoka.jp",
+        "med.om",
         "meguro.tokyo.jp",
         "meiwa.gunma.jp",
         "meiwa.mie.jp",
@@ -7647,9 +7648,12 @@
         "vps.myjino.ru"
     ],
     "run": [
+        "build.run",
         "code.run",
+        "database.run",
         "development.run",
         "hs.run",
+        "migration.run",
         "onporter.run",
         "ravendb.run",
         "repl.run",
