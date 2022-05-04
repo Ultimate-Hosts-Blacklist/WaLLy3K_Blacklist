@@ -2610,6 +2610,7 @@
         "so.it",
         "sondrio.it",
         "sp.it",
+        "sr.it",
         "ss.it",
         "suedtirol.it",
         "sv.it",
@@ -4231,7 +4232,6 @@
         "soo.kagoshima.jp",
         "sosa.chiba.jp",
         "sowa.ibaraki.jp",
-        "sr.it",
         "staba.jp",
         "stripper.jp",
         "sub.jp",
@@ -7386,7 +7386,6 @@
         "pisz.pl",
         "piw.gov.pl",
         "po.gov.pl",
-        "podhale.pl",
         "podlasie.pl",
         "polkowice.pl",
         "pomorskie.pl",
@@ -7861,7 +7860,8 @@
         "edu.sl",
         "gov.sl",
         "net.sl",
-        "org.sl"
+        "org.sl",
+        "podhale.pl"
     ],
     "sn": [
         "art.sn",
