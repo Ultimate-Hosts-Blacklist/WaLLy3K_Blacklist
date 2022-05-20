@@ -8436,7 +8436,6 @@
         "k12.dc.us",
         "k12.de.us",
         "k12.fl.us",
-        "k12.ga.us",
         "k12.gu.us",
         "k12.ia.us",
         "k12.id.us",
@@ -8748,6 +8747,7 @@
         "ac.zw",
         "co.zw",
         "gov.zw",
+        "k12.ga.us",
         "mil.zw",
         "org.zw"
     ],
