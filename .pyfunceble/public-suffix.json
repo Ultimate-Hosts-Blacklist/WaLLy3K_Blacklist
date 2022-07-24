@@ -923,7 +923,6 @@
         "nm.cn",
         "nx.cn",
         "org.cn",
-        "org.gn",
         "qh.cn",
         "s3.cn-north-1.amazonaws.com.cn",
         "sc.cn",
@@ -1925,7 +1924,8 @@
         "com.gn",
         "edu.gn",
         "gov.gn",
-        "net.gn"
+        "net.gn",
+        "org.gn"
     ],
     "goog": [
         "cloud.goog",
