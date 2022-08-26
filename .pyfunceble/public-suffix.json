@@ -169,6 +169,7 @@
         "clerkstage.app",
         "deta.app",
         "developer.app",
+        "easypanel.app",
         "edgecompute.app",
         "encr.app",
         "fireweb.app",
@@ -1430,6 +1431,7 @@
         "stackhero-network.com",
         "static.observableusercontent.com",
         "stg-builder.code.com",
+        "streamlitapp.com",
         "stufftoread.com",
         "teaches-yoga.com",
         "temp-dns.com",
@@ -2039,6 +2041,7 @@
     ],
     "host": [
         "cloudaccess.host",
+        "easypanel.host",
         "fastvps.host",
         "freesite.host",
         "half.host",
@@ -2246,6 +2249,7 @@
         "backyards.banzaicloud.io",
         "barsy.io",
         "basicserver.io",
+        "beagleboard.io",
         "bitbucket.io",
         "bluebite.io",
         "boxfuse.io",
@@ -5073,6 +5077,9 @@
         "wedeploy.me",
         "yombo.me"
     ],
+    "media": [
+        "framer.media"
+    ],
     "men": [
         "for.men",
         "repair.men"
@@ -7282,6 +7289,9 @@
         "ngo.ph",
         "org.ph"
     ],
+    "photos": [
+        "framer.photos"
+    ],
     "pictures": [
         "1337.pictures"
     ],
@@ -8699,9 +8709,15 @@
         "net.vu",
         "org.vu"
     ],
+    "website": [
+        "framer.website"
+    ],
     "wf": [
         "biz.wf",
         "sch.wf"
+    ],
+    "wiki": [
+        "framer.wiki"
     ],
     "win": [
         "that.win"
