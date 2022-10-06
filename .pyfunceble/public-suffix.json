@@ -1832,8 +1832,7 @@
     ],
     "events": [
         "co.events",
-        "koobin.events",
-        "read-books.org"
+        "koobin.events"
     ],
     "faith": [
         "ybo.faith"
