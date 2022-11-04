@@ -1288,7 +1288,6 @@
         "mydrobo.com",
         "myiphost.com",
         "myqnapcloud.com",
-        "myravendb.com",
         "mysecuritycamera.com",
         "myshopblocks.com",
         "myshopify.com",
@@ -8197,7 +8196,6 @@
         "blogspot.com.tr",
         "com.tr",
         "dr.tr",
-        "edu.tr",
         "gen.tr",
         "gov.nc.tr",
         "gov.tr",
@@ -8224,6 +8222,7 @@
         "co.tt",
         "com.tt",
         "coop.tt",
+        "edu.tr",
         "edu.tt",
         "gov.tt",
         "info.tt",
@@ -8665,8 +8664,7 @@
         "washtenaw.mi.us",
         "wi.us",
         "wv.us",
-        "wy.us",
-        "xn--uc0atv.xn--j6w193g"
+        "wy.us"
     ],
     "uy": [
         "blogspot.com.uy",
