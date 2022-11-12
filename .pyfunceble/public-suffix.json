@@ -484,7 +484,8 @@
         "tksat.bo",
         "transporte.bo",
         "tv.bo",
-        "web.bo"
+        "web.bo",
+        "wiki.bo"
     ],
     "br": [
         "9guacu.br",
@@ -935,7 +936,6 @@
         "sx.cn",
         "tj.cn",
         "tw.cn",
-        "wiki.bo",
         "xj.cn",
         "xn--55qx5d.cn",
         "xn--io0a7i.cn",
