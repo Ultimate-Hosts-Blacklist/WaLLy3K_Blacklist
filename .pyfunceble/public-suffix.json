@@ -1853,12 +1853,10 @@
         "demo.datacenter.fi",
         "dy.fi",
         "fi.cloudplatform.fi",
-        "häkkinen.fi",
         "iki.fi",
         "kapsi.fi",
         "myspreadshop.fi",
-        "paas.datacenter.fi",
-        "xn--hkkinen-5wa.fi"
+        "paas.datacenter.fi"
     ],
     "financial": [
         "co.financial"
@@ -7783,7 +7781,8 @@
         "onporter.run",
         "ravendb.run",
         "repl.run",
-        "servers.run"
+        "servers.run",
+        "xn--hkkinen-5wa.fi"
     ],
     "rw": [
         "ac.rw",
