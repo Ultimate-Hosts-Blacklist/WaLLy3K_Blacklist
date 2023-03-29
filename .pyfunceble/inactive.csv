@@ -1,6 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-batch.upsight-api.com,AVAILABILITY,domains.list,2023-03-28 01:55:17.535581
-bootstrap.upsight-api.com,AVAILABILITY,domains.list,2023-03-28 01:55:19.560474
 single.upsight-api.com,AVAILABILITY,domains.list,2023-03-28 02:00:19.415052
 api.south.kontagent.net,AVAILABILITY,domains.list,2023-03-28 02:02:46.440341
 revive.bdnews24.com,AVAILABILITY,domains.list,2023-03-28 02:02:46.939797
@@ -625,3 +623,5 @@ www.tremendoustreatment.com,AVAILABILITY,domains.list,2023-03-28 02:13:47.921335
 www.trickycelery.com,AVAILABILITY,domains.list,2023-03-28 02:13:48.212235
 www.tritetongue.com,AVAILABILITY,domains.list,2023-03-28 02:13:48.701076
 scs.webtrends.com,AVAILABILITY,domains.list,2023-03-28 02:13:49.027593
+batch.upsight-api.com,AVAILABILITY,domains.list,2023-03-29 02:09:07.847080
+bootstrap.upsight-api.com,AVAILABILITY,domains.list,2023-03-29 02:09:08.118595
