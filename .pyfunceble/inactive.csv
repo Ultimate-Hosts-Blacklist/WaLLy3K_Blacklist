@@ -1,6 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-ad.aniu.tv,AVAILABILITY,domains.list,2024-05-19 04:56:48.985636
-collector.abc-host.net.au,AVAILABILITY,domains.list,2024-05-19 04:56:49.449362
 sofia.trustx.org,AVAILABILITY,domains.list,2024-05-20 04:48:27.320668
 www.volantix.com,AVAILABILITY,domains.list,2024-05-20 04:50:40.795174
 iphone.aut5.com,AVAILABILITY,domains.list,2024-05-20 04:50:49.897768
@@ -615,3 +613,4 @@ ads.latinongroup.com,AVAILABILITY,domains.list,2024-05-20 05:02:49.093594
 ads.veterinaren.nu,AVAILABILITY,domains.list,2024-05-20 05:02:50.717635
 saber.srvcs.tumblr.com,AVAILABILITY,domains.list,2024-05-20 05:02:50.988075
 platform.cloud-iq.com.au,AVAILABILITY,domains.list,2024-05-20 05:02:51.609451
+collector.abc-host.net.au,AVAILABILITY,domains.list,2024-05-21 04:44:14.971281
