@@ -194,7 +194,6 @@
         "ondigitalocean.app",
         "platform0.app",
         "preview.csb.app",
-        "preview.wdh.app",
         "privatelink.snowflake.app",
         "relay.evervault.app",
         "replit.app",
@@ -2407,7 +2406,6 @@
         "stg.dev",
         "stgstage.dev",
         "sulu.replit.dev",
-        "t.hrsn.dev",
         "tarpit.replit.dev",
         "teams.replit.dev",
         "tucker.replit.dev",
@@ -3578,8 +3576,7 @@
         "xn--valle-aoste-ebb.it",
         "xn--valle-d-aoste-ehb.it",
         "xn--valleaoste-e7a.it",
-        "xn--valledaoste-ebb.it",
-        "yamato.fukushima.jp"
+        "xn--valledaoste-ebb.it"
     ],
     "je": [
         "co.je",
@@ -6267,7 +6264,6 @@
         "storage.yandexcloud.net",
         "supabase.net",
         "sytes.net",
-        "t.hrsn.net",
         "thruhere.net",
         "torproject.net",
         "trafficmanager.net",
