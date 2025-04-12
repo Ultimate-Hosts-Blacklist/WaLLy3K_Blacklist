@@ -1,19 +1,19 @@
 {
     "currently_under_test": false,
     "days_until_next_test": 2,
-    "end_datetime": "2025-04-12T03:59:38.647702",
-    "end_epoch": 1744430378.647702,
+    "end_datetime": "2025-04-12T04:46:22.376379",
+    "end_epoch": 1744433182.376379,
     "issue_link": null,
     "link": "https://v.firebog.net/hosts/static/w3kbl.txt",
     "name": "WaLLy3K_Blacklist",
-    "previous_end_datetime": "2025-04-11T03:47:09.743773",
-    "previous_end_epoch": 1744343229.743773,
-    "previous_start_datetime": "2025-04-11T03:40:12.616390",
-    "previous_start_epoch": 1744342812.61639,
+    "previous_end_datetime": "2025-04-12T03:59:38.647702",
+    "previous_end_epoch": 1744430378.647702,
+    "previous_start_datetime": "2025-04-12T03:36:51.115124",
+    "previous_start_epoch": 1744429011.115124,
     "pyfunceble": {
         "config": {}
     },
     "raw_link": "https://v.firebog.net/hosts/static/w3kbl.txt",
-    "start_datetime": "2025-04-12T03:36:51.115124",
-    "start_epoch": 1744429011.115124
+    "start_datetime": "2025-04-12T04:39:25.218878",
+    "start_epoch": 1744432765.218878
 }
