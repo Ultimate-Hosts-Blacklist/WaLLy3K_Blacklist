@@ -1694,6 +1694,7 @@
         "ocp.customer-oci.com",
         "ocs.customer-oci.com",
         "on-aptible.com",
+        "onavstack.net",
         "oncilla.mythic-beasts.com",
         "onfabrica.com",
         "onrender.com",
@@ -6803,6 +6804,7 @@
         "nord-aurdal.no",
         "nord-fron.no",
         "nord-odal.no",
+        "norddal.no",
         "nordkapp.no",
         "nordre-land.no",
         "nordreisa.no",
@@ -7571,7 +7573,6 @@
         "org.pf"
     ],
     "pg": [
-        "norddal.no",
         "pg"
     ],
     "ph": [
