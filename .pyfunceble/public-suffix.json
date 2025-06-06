@@ -194,6 +194,7 @@
         "luyani.app",
         "medusajs.app",
         "messerli.app",
+        "mtls.run.app",
         "netfy.app",
         "netlify.app",
         "ngrok-free.app",
@@ -1658,6 +1659,7 @@
         "loseyourip.com",
         "lovableproject.com",
         "lpusercontent.com",
+        "lutrausercontent.com",
         "lynx.mythic-beasts.com",
         "mazeplay.com",
         "me-central-1.airflow.amazonaws.com",
@@ -8110,6 +8112,7 @@
         "servers.run",
         "stackit.run",
         "val.run",
+        "vercel.run",
         "web.val.run",
         "wix.run"
     ],
