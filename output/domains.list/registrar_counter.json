@@ -1,18 +1,22 @@
 {
     "counter": {
+        "(Domain.ca) 3950573 Canada Inc.": 2,
+        "Amazon Registrar, Inc.": 2,
         "CARNET": 2,
         "Gandi SAS": 2,
-        "GoDaddy.com, LLC": 12,
+        "GoDaddy.com, LLC": 14,
         "Hostopia Canada Corp": 2,
         "MarkMonitor Inc.": 6,
-        "total": 24
+        "total": 30
     },
     "percentage": {
-        "CARNET": 8.333333333333334,
-        "Gandi SAS": 8.333333333333334,
-        "GoDaddy.com, LLC": 50.0,
-        "Hostopia Canada Corp": 8.333333333333334,
-        "MarkMonitor Inc.": 25.0,
+        "(Domain.ca) 3950573 Canada Inc.": 6.666666666666667,
+        "Amazon Registrar, Inc.": 6.666666666666667,
+        "CARNET": 6.666666666666667,
+        "Gandi SAS": 6.666666666666667,
+        "GoDaddy.com, LLC": 46.666666666666664,
+        "Hostopia Canada Corp": 6.666666666666667,
+        "MarkMonitor Inc.": 20.0,
         "total": 100.0
     }
 }
