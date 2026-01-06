@@ -1,12 +1,18 @@
 {
     "counter": {
+        "CARNET": 2,
         "Gandi SAS": 2,
-        "GoDaddy.com, LLC": 6,
-        "total": 8
+        "GoDaddy.com, LLC": 12,
+        "Hostopia Canada Corp": 2,
+        "MarkMonitor Inc.": 6,
+        "total": 24
     },
     "percentage": {
-        "Gandi SAS": 25.0,
-        "GoDaddy.com, LLC": 75.0,
+        "CARNET": 8.333333333333334,
+        "Gandi SAS": 8.333333333333334,
+        "GoDaddy.com, LLC": 50.0,
+        "Hostopia Canada Corp": 8.333333333333334,
+        "MarkMonitor Inc.": 25.0,
         "total": 100.0
     }
 }
