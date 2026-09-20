@@ -4,9 +4,10 @@
         "Amazon Registrar, Inc.": 2,
         "CARNET": 2,
         "Gandi SAS": 2,
-        "GoDaddy.com, LLC": 14,
+        "GoDaddy.com, LLC": 12,
         "Hostopia Canada Corp": 2,
         "MarkMonitor Inc.": 6,
+        "Spaceship, Inc.": 2,
         "total": 30
     },
     "percentage": {
@@ -14,9 +15,10 @@
         "Amazon Registrar, Inc.": 6.666666666666667,
         "CARNET": 6.666666666666667,
         "Gandi SAS": 6.666666666666667,
-        "GoDaddy.com, LLC": 46.666666666666664,
+        "GoDaddy.com, LLC": 40.0,
         "Hostopia Canada Corp": 6.666666666666667,
         "MarkMonitor Inc.": 20.0,
-        "total": 100.0
+        "Spaceship, Inc.": 6.666666666666667,
+        "total": 100.00000000000001
     }
 }
